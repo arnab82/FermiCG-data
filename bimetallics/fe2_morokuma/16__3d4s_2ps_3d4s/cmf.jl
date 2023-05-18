@@ -6,14 +6,14 @@ using RDM
 using JLD2
 using Printf
 
-C = npzread("mo_coeffs.npy")
-h0 = npzread("ints_h0.npy")
-h1 = npzread("ints_h1.npy")
-h2 = npzread("ints_h2.npy")
+C = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/mo_coeffs.npy")
+h0 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/ints_h0.npy")
+h1 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/ints_h1.npy")
+h2 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/ints_h2.npy")
 ints = InCoreInts(h0, h1, h2)
 
-Pa = npzread("Pa.npy")
-Pb = npzread("Pb.npy")
+Pa = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/Pa.npy")
+Pb = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/Pb.npy")
 @printf(" Input energy:    %12.8f\n", compute_energy(ints, RDM1(Pa, Pb)))
 
 
@@ -51,6 +51,6 @@ e_cmf, U, d1 = ClusterMeanField.cmf_oo_diis(ints, clusters, init_fspace, d1,
 ints = orbital_rotation(ints, U)
 C = C*U
 
-npzwrite("Ccmf.npy", C)
+npzwrite("Ccmf_16.npy", C)
 
-@save "data_cmf.jld2" clusters init_fspace ints d1 e_cmf U 
+@save "data_cmf_16.jld2" clusters init_fspace ints d1 e_cmf U 
