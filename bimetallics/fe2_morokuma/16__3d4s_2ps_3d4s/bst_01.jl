@@ -7,9 +7,9 @@ using RDM
 using JLD2
 
 
-@load "data_cmf.jld2"
+@load "/home/arnabbachhar/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s/data_cmf_16.jld2"
 
-M = 400
+M = 15
 
 init_fspace = FermiCG.FockConfig([(6, 1), (4, 4), (1, 6)])
 
@@ -46,9 +46,8 @@ e_ci, v = FermiCG.ci_solve(ci_vector, cluster_ops, clustered_ham)
 
 ept = FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)
 
-e_var, v_var = block_sparse_tucker( v, cluster_ops, clustered_ham,
+e_var, v_var = block_sparse_tucker(v, cluster_ops, clustered_ham,
                                    max_iter    = 20,
-                                   max_iter_pt = 200,
                                    nbody       = 4,
                                    H0          = "Hcmf",
                                    thresh_var  = 1e-1,
@@ -60,4 +59,6 @@ e_var, v_var = block_sparse_tucker( v, cluster_ops, clustered_ham,
                                    resolve_ss  = false,
                                    tol_tucker  = 1e-4,
                                    solver      = "davidson")
+
+ept = FermiCG.compute_pt2_energy(v_var, cluster_ops, clustered_ham, thresh_foi=1e-6, prescreen=false, compress_twice=false)
 
