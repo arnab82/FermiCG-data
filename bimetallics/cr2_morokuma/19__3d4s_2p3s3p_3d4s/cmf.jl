@@ -6,19 +6,19 @@ using RDM
 using JLD2
 using Printf
 
-C = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s/mo_coeffs.npy")
-h0 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s/ints_h0.npy")
-h1 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s/ints_h1.npy")
-h2 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s/ints_h2.npy")
+C = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/mo_coeffs.npy")
+h0 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/ints_h0.npy")
+h1 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/ints_h1.npy")
+h2 = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/ints_h2.npy")
 ints = InCoreInts(h0, h1, h2)
 
-Pa = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s/Pa.npy")
-Pb = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s/Pb.npy")
+Pa = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/Pa.npy")
+Pb = npzread("/home/arnabbachhar/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/Pb.npy")
 @printf(" Input energy:    %12.8f\n", compute_energy(ints, RDM1(Pa, Pb)))
 
 
 init_fspace=  [(4, 1), (4, 4), (4, 1)]
-clusters   = [[1, 2, 3, 4, 5, 6], [7, 8, 9, 10], [11, 12, 13, 14, 15, 16]]
+clusters   =  [[1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12, 13], [14, 15, 16, 17, 18, 19]]
 
 
 clusters = [MOCluster(i, collect(clusters[i])) for i = 1:length(clusters)]
@@ -29,7 +29,7 @@ d1 = RDM1(n_orb(ints))
 
 # # Do CMF
 e_cmf, U, d1 = ClusterMeanField.cmf_oo(ints, clusters, init_fspace, RDM1(n_orb(ints)),
-    verbose=0, sequential=true, max_iter_oo=50)
+    verbose=0, sequential=true, max_iter_oo=30)
 
 ints = orbital_rotation(ints, U)
 C = C*U# Do CMF
@@ -51,6 +51,6 @@ e_cmf, U, d1 = ClusterMeanField.cmf_oo_diis(ints, clusters, init_fspace, d1,
 ints = orbital_rotation(ints, U)
 C = C*U
 
-npzwrite("Ccmf_16_cr2.npy", C)
+npzwrite("Ccmf_19_cr2.npy", C)
 
-@save "data_cmf_16_cr2.jld2" clusters init_fspace ints d1 e_cmf U 
+@save "data_cmf_19_cr2.jld2" clusters init_fspace ints d1 e_cmf U 
