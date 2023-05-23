@@ -1,0 +1,196 @@
+tc148
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+bst_01.jl
+bst_01.jl.out
+/home/arnab22/FermiCG-data/bimetallics/fe2_morokuma/29__3d4s4d_2s2p3p_3d4s4d
+/localscratch/1501926
+sending incremental file list
+bst_01.jl.out
+
+sent 116 bytes  received 35 bytes  302.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+bst_01.jl.out
+
+sent 710 bytes  received 35 bytes  1,490.00 bytes/sec
+total size is 590  speedup is 0.79
+sending incremental file list
+bst_01.jl.out
+
+sent 1,160 bytes  received 35 bytes  2,390.00 bytes/sec
+total size is 1,039  speedup is 0.87
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 1,039  speedup is 12.08
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 1,039  speedup is 12.08
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 1,039  speedup is 12.08
+sending incremental file list
+bst_01.jl.out
+
+sent 1,672 bytes  received 35 bytes  3,414.00 bytes/sec
+total size is 1,552  speedup is 0.91
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 1,552  speedup is 18.26
+sending incremental file list
+bst_01.jl.out
+
+sent 1,777 bytes  received 35 bytes  3,624.00 bytes/sec
+total size is 1,656  speedup is 0.91
+sending incremental file list
+bst_01.jl.out
+
+sent 2,250 bytes  received 35 bytes  4,570.00 bytes/sec
+total size is 2,129  speedup is 0.93
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,129  speedup is 24.76
+sending incremental file list
+bst_01.jl.out
+
+sent 2,418 bytes  received 35 bytes  4,906.00 bytes/sec
+total size is 2,297  speedup is 0.94
+sending incremental file list
+bst_01.jl.out
+
+sent 2,891 bytes  received 35 bytes  5,852.00 bytes/sec
+total size is 2,770  speedup is 0.95
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 2,770  speedup is 32.21
+slurmstepd: error: *** JOB 1501926 ON tc148 CANCELLED AT 2023-05-22T18:18:27 DUE TO PREEMPTION ***

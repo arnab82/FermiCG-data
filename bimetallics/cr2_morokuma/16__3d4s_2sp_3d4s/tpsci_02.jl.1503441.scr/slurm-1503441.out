@@ -1,0 +1,33 @@
+tc239
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+tpsci_02.jl
+tpsci_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s
+/localscratch/1503441
+sending incremental file list
+tpsci_02.jl.out
+
+sent 119 bytes  received 35 bytes  308.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 306,137 bytes  received 35 bytes  612,344.00 bytes/sec
+total size is 305,946  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 329,792 bytes  received 35 bytes  659,654.00 bytes/sec
+total size is 329,593  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 332,988 bytes  received 35 bytes  666,046.00 bytes/sec
+total size is 332,789  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 333,039 bytes  received 35 bytes  666,148.00 bytes/sec
+total size is 332,840  speedup is 1.00
+rm: cannot remove ‘tmpfs’: Device or resource busy

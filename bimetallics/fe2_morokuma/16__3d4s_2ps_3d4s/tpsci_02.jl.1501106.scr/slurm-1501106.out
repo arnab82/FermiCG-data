@@ -1,0 +1,85 @@
+tc073
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+tpsci_02.jl
+tpsci_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/fe2_morokuma/16__3d4s_2ps_3d4s
+/localscratch/1501106
+sending incremental file list
+tpsci_02.jl.out
+
+sent 119 bytes  received 35 bytes  308.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 309,049 bytes  received 35 bytes  618,168.00 bytes/sec
+total size is 308,858  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 321,097 bytes  received 35 bytes  642,264.00 bytes/sec
+total size is 320,906  speedup is 1.00
+sending incremental file list
+
+sent 76 bytes  received 12 bytes  176.00 bytes/sec
+total size is 320,906  speedup is 3,646.66
+sending incremental file list
+tpsci_02.jl.out
+
+sent 328,427 bytes  received 35 bytes  218,974.67 bytes/sec
+total size is 328,228  speedup is 1.00
+sending incremental file list
+
+sent 76 bytes  received 12 bytes  176.00 bytes/sec
+total size is 328,228  speedup is 3,729.86
+sending incremental file list
+tpsci_02.jl.out
+
+sent 334,232 bytes  received 35 bytes  668,534.00 bytes/sec
+total size is 334,034  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,123 bytes  received 35 bytes  674,316.00 bytes/sec
+total size is 336,925  speedup is 1.00
+sending incremental file list
+
+sent 75 bytes  received 12 bytes  174.00 bytes/sec
+total size is 336,925  speedup is 3,872.70
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,506 bytes  received 35 bytes  675,082.00 bytes/sec
+total size is 337,308  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,517 bytes  received 35 bytes  675,104.00 bytes/sec
+total size is 337,318  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,539 bytes  received 35 bytes  675,148.00 bytes/sec
+total size is 337,340  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,549 bytes  received 35 bytes  675,168.00 bytes/sec
+total size is 337,350  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,560 bytes  received 35 bytes  675,190.00 bytes/sec
+total size is 337,361  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,579 bytes  received 35 bytes  675,228.00 bytes/sec
+total size is 337,380  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 337,594 bytes  received 35 bytes  675,258.00 bytes/sec
+total size is 337,395  speedup is 1.00
+rm: cannot remove ‘tmpfs’: Device or resource busy

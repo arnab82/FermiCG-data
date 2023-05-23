@@ -1,0 +1,49 @@
+IDX001:DIM4194304:001|002|003|004|005|006|007|008|009|010|011|
+ Number of embedded electrons a,b: 7.500000 7.500000
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 2  Dimension: 3025     
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 3  Dimension: 1815     
+ FCIAnsatz:: #Orbs = 11  #α = 0  #β = 4  Dimension: 330      
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 1  Dimension: 1815     
+ FCIAnsatz:: #Orbs = 11  #α = 4  #β = 0  Dimension: 330      
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 2  Dimension: 9075     
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 3  Dimension: 9075     
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 4  Dimension: 3630     
+ FCIAnsatz:: #Orbs = 11  #α = 0  #β = 5  Dimension: 462      
+ FCIAnsatz:: #Orbs = 11  #α = 4  #β = 1  Dimension: 3630     
+ FCIAnsatz:: #Orbs = 11  #α = 5  #β = 0  Dimension: 462      
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 3  Dimension: 27225    
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 4  Dimension: 18150    
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 5  Dimension: 5082     
+ FCIAnsatz:: #Orbs = 11  #α = 0  #β = 6  Dimension: 462      
+ FCIAnsatz:: #Orbs = 11  #α = 4  #β = 2  Dimension: 18150    
+ FCIAnsatz:: #Orbs = 11  #α = 5  #β = 1  Dimension: 5082     
+ FCIAnsatz:: #Orbs = 11  #α = 6  #β = 0  Dimension: 462      
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 4  #β = 3  Dimension: 54450    
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 4  Dimension: 54450    
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 5  Dimension: 25410    
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 6  Dimension: 5082     
+ FCIAnsatz:: #Orbs = 11  #α = 0  #β = 7  Dimension: 330      
+ FCIAnsatz:: #Orbs = 11  #α = 5  #β = 2  Dimension: 25410    
+ FCIAnsatz:: #Orbs = 11  #α = 6  #β = 1  Dimension: 5082     
+ FCIAnsatz:: #Orbs = 11  #α = 7  #β = 0  Dimension: 330      
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 4  #β = 4  Dimension: 108900   
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 5  Dimension: 76230    
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 6  Dimension: 25410    
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 7  Dimension: 3630     
+ FCIAnsatz:: #Orbs = 11  #α = 0  #β = 8  Dimension: 165      
+ FCIAnsatz:: #Orbs = 11  #α = 5  #β = 3  Dimension: 76230    
+ FCIAnsatz:: #Orbs = 11  #α = 6  #β = 2  Dimension: 25410    
+ FCIAnsatz:: #Orbs = 11  #α = 7  #β = 1  Dimension: 3630     
+ FCIAnsatz:: #Orbs = 11  #α = 8  #β = 0  Dimension: 165      
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 5  #β = 4  Dimension: 152460   

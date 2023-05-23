@@ -1,0 +1,14 @@
+IDX001:DIM4194304:001|002|003|004|005|006|007|008|009|010|011|
+ Number of embedded electrons a,b: 7.500000 7.500000
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 2  Dimension: 3025     
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 3  Dimension: 1815     
+ FCIAnsatz:: #Orbs = 11  #α = 0  #β = 4  Dimension: 330      
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 1  Dimension: 1815     
+ FCIAnsatz:: #Orbs = 11  #α = 4  #β = 0  Dimension: 330      
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 11  #α = 3  #β = 2  Dimension: 9075     
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 11  #α = 2  #β = 3  Dimension: 9075     
+ FCIAnsatz:: #Orbs = 11  #α = 1  #β = 4  Dimension: 3630     

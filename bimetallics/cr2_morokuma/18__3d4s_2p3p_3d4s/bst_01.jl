@@ -6,11 +6,11 @@ using RDM
 using JLD2
 
 
-@load "data_cmf.jld2"
+@load "/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/18__3d4s_2p3p_3d4s/data_cmf_18_cr2.jld2"
 
 M = 100 
 
-init_fspace = FockConfig([(4, 1), (4, 4), (1, 4)])
+init_fspace = FockConfig([(4,1), (3,3), (1,4)])
 
 cluster_bases = FermiCG.compute_cluster_eigenbasis_spin(ints, clusters, d1, [3,3,3], init_fspace, max_roots=M, verbose=1);
 
@@ -32,7 +32,7 @@ add_subspace!(ssi, (1,4), 1:1)
 push!(p_spaces, ssi)
 
 ssi = ClusterSubspace(clusters[2])
-add_subspace!(ssi, (4,4), 1:1)
+add_subspace!(ssi, (3,3), 1:1)
 push!(p_spaces, ssi)
 
 ssi = ClusterSubspace(clusters[3])
@@ -45,12 +45,12 @@ push!(p_spaces, ssi)
 
 ci_vector = BSTstate(clusters, p_spaces, cluster_bases, R=4) 
 
-na = 9 
-nb = 9
+na = 8
+nb = 8
 FermiCG.fill_p_space!(ci_vector, na, nb)
 FermiCG.eye!(ci_vector)
 ebst, vbst = FermiCG.ci_solve(ci_vector, cluster_ops, clustered_ham)
 
 ebst, vbst = FermiCG.block_sparse_tucker(vbst, cluster_ops, clustered_ham, thresh_var=1e-2, thresh_foi=1e-6, thresh_pt=1e-3)
 e2_bst = FermiCG.compute_pt2_energy(vbst, cluster_ops, clustered_ham, thresh_foi=1e-6);
-e2_bst = FermiCG.compute_pt2_energy(vbst, cluster_ops, clustered_ham, thresh_foi=1e-7);
+#e2_bst = FermiCG.compute_pt2_energy(vbst, cluster_ops, clustered_ham, thresh_foi=1e-7);

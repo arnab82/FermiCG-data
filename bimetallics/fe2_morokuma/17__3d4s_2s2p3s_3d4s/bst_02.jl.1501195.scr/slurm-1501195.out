@@ -1,0 +1,179 @@
+tc265
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+bst_02.jl
+bst_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/fe2_morokuma/17__3d4s_2s2p3s_3d4s
+/localscratch/1501195
+sending incremental file list
+bst_02.jl.out
+
+sent 117 bytes  received 35 bytes  101.33 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+bst_02.jl.out
+
+sent 338,252 bytes  received 35 bytes  676,574.00 bytes/sec
+total size is 338,055  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 341,769 bytes  received 35 bytes  683,608.00 bytes/sec
+total size is 341,572  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 347,386 bytes  received 35 bytes  694,842.00 bytes/sec
+total size is 347,189  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 354,070 bytes  received 35 bytes  708,210.00 bytes/sec
+total size is 353,874  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 362,721 bytes  received 35 bytes  725,512.00 bytes/sec
+total size is 362,516  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 365,445 bytes  received 35 bytes  730,960.00 bytes/sec
+total size is 365,241  speedup is 1.00
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 365,241  speedup is 4,296.95
+rm: cannot remove ‘tmpfs’: Device or resource busy

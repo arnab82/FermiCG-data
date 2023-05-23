@@ -1,0 +1,67 @@
+tc258
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+bst_01.jl
+bst_01.jl.out
+/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/15__3d4s_2p_3d4s
+/localscratch/1503360
+sending incremental file list
+bst_01.jl.out
+
+sent 117 bytes  received 35 bytes  304.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+bst_01.jl.out
+
+sent 168,580 bytes  received 35 bytes  337,230.00 bytes/sec
+total size is 168,424  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 174,100 bytes  received 35 bytes  348,270.00 bytes/sec
+total size is 173,944  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 181,864 bytes  received 35 bytes  363,798.00 bytes/sec
+total size is 181,707  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 188,512 bytes  received 35 bytes  377,094.00 bytes/sec
+total size is 188,355  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 194,591 bytes  received 35 bytes  389,252.00 bytes/sec
+total size is 194,436  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 202,063 bytes  received 35 bytes  404,196.00 bytes/sec
+total size is 201,898  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 208,197 bytes  received 35 bytes  416,464.00 bytes/sec
+total size is 208,032  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 218,374 bytes  received 35 bytes  436,818.00 bytes/sec
+total size is 218,209  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 227,476 bytes  received 35 bytes  455,022.00 bytes/sec
+total size is 227,312  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 229,475 bytes  received 35 bytes  153,006.67 bytes/sec
+total size is 229,310  speedup is 1.00
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 229,310  speedup is 2,666.40
+rm: cannot remove ‘tmpfs’: Device or resource busy

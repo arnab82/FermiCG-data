@@ -1,0 +1,50 @@
+tc147
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+bst_02.jl
+bst_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/18__3d4s_2p3p_3d4s
+/localscratch/1503655
+sending incremental file list
+bst_02.jl.out
+
+sent 117 bytes  received 35 bytes  304.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+bst_02.jl.out
+
+sent 457,761 bytes  received 35 bytes  915,592.00 bytes/sec
+total size is 457,540  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 459,656 bytes  received 35 bytes  919,382.00 bytes/sec
+total size is 459,427  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 461,588 bytes  received 35 bytes  923,246.00 bytes/sec
+total size is 461,359  speedup is 1.00
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 461,359  speedup is 5,364.64
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 461,359  speedup is 5,364.64
+sending incremental file list
+bst_02.jl.out
+
+sent 461,663 bytes  received 35 bytes  923,396.00 bytes/sec
+total size is 461,434  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 466,288 bytes  received 35 bytes  932,646.00 bytes/sec
+total size is 466,059  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 466,609 bytes  received 35 bytes  933,288.00 bytes/sec
+total size is 466,380  speedup is 1.00

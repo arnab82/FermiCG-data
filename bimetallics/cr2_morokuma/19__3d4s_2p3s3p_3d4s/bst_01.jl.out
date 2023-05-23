@@ -1,0 +1,55 @@
+┌ Warning: Opening file with JLD2.MmapIO failed, falling back to IOStream
+└ @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:287
+ERROR: LoadError: SystemError: opening file "/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/data_cmf_17_cr2.jld2": No such file or directory
+Stacktrace:
+  [1] systemerror(p::String, errno::Int32; extrainfo::Nothing)
+    @ Base ./error.jl:176
+  [2] #systemerror#80
+    @ ./error.jl:175 [inlined]
+  [3] systemerror
+    @ ./error.jl:175 [inlined]
+  [4] open(fname::String; lock::Bool, read::Bool, write::Bool, create::Bool, truncate::Bool, append::Bool)
+    @ Base ./iostream.jl:293
+  [5] openfile
+    @ ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:277 [inlined]
+  [6] openfile(T::Type, fname::String, wr::Bool, create::Bool, truncate::Bool, fallback::Type)
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:288
+  [7] jldopen(fname::String, wr::Bool, create::Bool, truncate::Bool, iotype::Type{JLD2.MmapIO}; fallback::Type{IOStream}, compress::Bool, mmaparrays::Bool, typemap::Dict{String, Any})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:344
+  [8] jldopen(fname::String, wr::Bool, create::Bool, truncate::Bool, iotype::Type{JLD2.MmapIO})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:301
+  [9] jldopen(fname::String, mode::String; iotype::Type, kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:424
+ [10] jldopen (repeats 2 times)
+    @ ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:418 [inlined]
+ [11] var"@load"(__source__::LineNumberNode, __module__::Module, filename::Any, vars::Vararg{Any})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/loadsave.jl:133
+in expression starting at /localscratch/1503662/bst_01.jl:9
+in expression starting at /localscratch/1503662/bst_01.jl:9
+
+caused by: SystemError: opening file "/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/data_cmf_17_cr2.jld2": No such file or directory
+Stacktrace:
+  [1] systemerror(p::String, errno::Int32; extrainfo::Nothing)
+    @ Base ./error.jl:176
+  [2] #systemerror#80
+    @ ./error.jl:175 [inlined]
+  [3] systemerror
+    @ ./error.jl:175 [inlined]
+  [4] open(fname::String; lock::Bool, read::Bool, write::Bool, create::Bool, truncate::Bool, append::Bool)
+    @ Base ./iostream.jl:293
+  [5] JLD2.MmapIO(fname::String, write::Bool, create::Bool, truncate::Bool)
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/mmapio.jl:105
+  [6] openfile
+    @ ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:280 [inlined]
+  [7] openfile(T::Type, fname::String, wr::Bool, create::Bool, truncate::Bool, fallback::Type)
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:285
+  [8] jldopen(fname::String, wr::Bool, create::Bool, truncate::Bool, iotype::Type{JLD2.MmapIO}; fallback::Type{IOStream}, compress::Bool, mmaparrays::Bool, typemap::Dict{String, Any})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:344
+  [9] jldopen(fname::String, wr::Bool, create::Bool, truncate::Bool, iotype::Type{JLD2.MmapIO})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:301
+ [10] jldopen(fname::String, mode::String; iotype::Type, kwargs::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:424
+ [11] jldopen (repeats 2 times)
+    @ ~/.julia/packages/JLD2/ryhNR/src/JLD2.jl:418 [inlined]
+ [12] var"@load"(__source__::LineNumberNode, __module__::Module, filename::Any, vars::Vararg{Any})
+    @ JLD2 ~/.julia/packages/JLD2/ryhNR/src/loadsave.jl:133

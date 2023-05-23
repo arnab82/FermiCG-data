@@ -1,0 +1,51 @@
+tc094
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+bst_02.jl
+bst_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/fe2_morokuma/18__3d4s_2p3p_3d4s
+/localscratch/1501802
+sending incremental file list
+bst_02.jl.out
+
+sent 117 bytes  received 35 bytes  304.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+bst_02.jl.out
+
+sent 460,016 bytes  received 35 bytes  920,102.00 bytes/sec
+total size is 459,788  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 463,519 bytes  received 35 bytes  927,108.00 bytes/sec
+total size is 463,291  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 467,512 bytes  received 35 bytes  935,094.00 bytes/sec
+total size is 467,283  speedup is 1.00
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 467,283  speedup is 5,433.52
+sending incremental file list
+bst_02.jl.out
+
+sent 467,967 bytes  received 35 bytes  936,004.00 bytes/sec
+total size is 467,738  speedup is 1.00
+sending incremental file list
+bst_02.jl.out
+
+sent 475,358 bytes  received 35 bytes  950,786.00 bytes/sec
+total size is 475,129  speedup is 1.00
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 475,129  speedup is 5,524.76
+sending incremental file list
+bst_02.jl.out
+
+sent 475,623 bytes  received 35 bytes  317,105.33 bytes/sec
+total size is 475,394  speedup is 1.00
+rm: cannot remove ‘tmpfs’: Device or resource busy

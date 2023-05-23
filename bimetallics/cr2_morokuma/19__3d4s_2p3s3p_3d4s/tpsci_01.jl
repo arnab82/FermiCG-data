@@ -6,7 +6,7 @@ using RDM
 using JLD2
 
 
-@load "data_cmf.jld2"
+@load "/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/19__3d4s_2p3s3p_3d4s/data_cmf_19_cr2.jld2"
 
 M = 100 
 

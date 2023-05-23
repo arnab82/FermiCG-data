@@ -1,0 +1,37 @@
+tc115
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+tpsci_02.jl
+tpsci_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/18__3d4s_2p3p_3d4s
+/localscratch/1503657
+sending incremental file list
+tpsci_02.jl.out
+
+sent 119 bytes  received 35 bytes  308.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 457,763 bytes  received 35 bytes  305,198.67 bytes/sec
+total size is 457,540  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 468,167 bytes  received 35 bytes  936,404.00 bytes/sec
+total size is 467,936  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 474,854 bytes  received 35 bytes  949,778.00 bytes/sec
+total size is 474,623  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 481,246 bytes  received 35 bytes  962,562.00 bytes/sec
+total size is 481,016  speedup is 1.00
+sending incremental file list
+tpsci_02.jl.out
+
+sent 488,723 bytes  received 35 bytes  977,516.00 bytes/sec
+total size is 488,492  speedup is 1.00

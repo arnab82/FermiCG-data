@@ -1,0 +1,18 @@
+tc255
+Resetting modules to system default. Reseting $MODULEPATH back to system default. All extra directories will be removed from $MODULEPATH.
+Usage: sbatch submit.sh {input file} {data file} {data file}
+bst_02.jl
+bst_02.jl.out
+/home/arnab22/FermiCG-data/bimetallics/cr2_morokuma/16__3d4s_2sp_3d4s
+/localscratch/1503535
+sending incremental file list
+bst_02.jl.out
+
+sent 117 bytes  received 35 bytes  304.00 bytes/sec
+total size is 0  speedup is 0.00
+sending incremental file list
+bst_02.jl.out
+
+sent 306,135 bytes  received 35 bytes  612,340.00 bytes/sec
+total size is 305,946  speedup is 1.00
+slurmstepd: error: *** JOB 1503535 ON tc255 CANCELLED AT 2023-05-23T01:30:38 DUE TO PREEMPTION ***

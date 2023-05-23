@@ -1,0 +1,2057 @@
+IDX001:DIM1024:001|002|003|004|005|
+ Number of embedded electrons a,b: 5.500000 5.500000
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 0  Dimension: 1        
+ Compute higher and lower Ms components
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 0  Dimension: 5        
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 1  Dimension: 5        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 1  Dimension: 25       
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 2  Dimension: 10       
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 0  Dimension: 10       
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 1  Dimension: 50       
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 2  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 3  Dimension: 10       
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 0  Dimension: 10       
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 2  Dimension: 100      
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 3  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 4  Dimension: 5        
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 1  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 0  Dimension: 5        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 2  Dimension: 100      
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 3  Dimension: 100      
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 4  Dimension: 25       
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 5  Dimension: 1        
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 1  Dimension: 25       
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 0  Dimension: 1        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 3  Dimension: 100      
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 4  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 5  Dimension: 5        
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 2  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 1  Dimension: 5        
+
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 2  Dimension: 50       
+   State    1 Energy:  -5.53629179 S2:   3.75000000
+   State    2 Energy:  -5.45335233 S2:   3.75000000
+   State    3 Energy:  -5.44799932 S2:   0.75000000
+   State    4 Energy:  -5.44779984 S2:   0.75000000
+   State    5 Energy:  -5.44776522 S2:   0.75000000
+   State    6 Energy:  -5.44555912 S2:   0.75000000
+   State    7 Energy:  -5.44377209 S2:   3.75000000
+   State    8 Energy:  -5.44369254 S2:   3.75000000
+   State    9 Energy:  -5.44264420 S2:   0.75000000
+   State   10 Energy:  -5.40079559 S2:   0.75000000
+   State   11 Energy:  -5.40056001 S2:   0.75000000
+   State   12 Energy:  -5.40052568 S2:   0.75000000
+   State   13 Energy:  -5.38045819 S2:   3.75000000
+   State   14 Energy:  -5.38037371 S2:   3.75000000
+   State   15 Energy:  -5.37365610 S2:   0.75000000
+   State   16 Energy:  -5.37358592 S2:   0.75000000
+   State   17 Energy:  -5.36678477 S2:   0.75000000
+   State   18 Energy:  -5.36678344 S2:   0.75000000
+   State   19 Energy:  -5.35900472 S2:   0.75000000
+   State   20 Energy:  -5.34909736 S2:   3.75000000
+   State   21 Energy:  -5.34632934 S2:   0.75000000
+   State   22 Energy:  -5.33533299 S2:   0.75000000
+   State   23 Energy:  -5.33527541 S2:   0.75000000
+   State   24 Energy:  -5.32490580 S2:   0.75000000
+   State   25 Energy:  -5.31213367 S2:   0.75000000
+   State   26 Energy:  -5.31207324 S2:   0.75000000
+   State   27 Energy:  -5.29277710 S2:   3.75000000
+   State   28 Energy:  -5.29214418 S2:   3.75000000
+   State   29 Energy:  -5.29182805 S2:   3.75000000
+   State   30 Energy:  -5.28082433 S2:   0.75000000
+   State   31 Energy:  -5.28072606 S2:   0.75000000
+   State   32 Energy:  -5.27305606 S2:   0.75000000
+   State   33 Energy:  -5.26645906 S2:   0.75000000
+   State   34 Energy:  -5.25949936 S2:   0.75000000
+   State   35 Energy:  -5.25946478 S2:   0.75000000
+   State   36 Energy:  -5.25167049 S2:   0.75000000
+   State   37 Energy:  -5.23030197 S2:   0.75000000
+   State   38 Energy:  -5.22716492 S2:   0.75000000
+   State   39 Energy:  -5.22704703 S2:   0.75000000
+   State   40 Energy:  -5.21869343 S2:   0.75000000
+   State   41 Energy:  -5.21248149 S2:   0.75000000
+   State   42 Energy:  -5.20142806 S2:   0.75000000
+   State   43 Energy:  -5.19550494 S2:   0.75000000
+   State   44 Energy:  -5.19104217 S2:   0.75000000
+   State   45 Energy:  -5.19092063 S2:   0.75000000
+   State   46 Energy:  -5.12930807 S2:   0.75000000
+   State   47 Energy:  -5.10018587 S2:   0.75000000
+   State   48 Energy:  -5.05979957 S2:   0.75000000
+   State   49 Energy:  -5.04314914 S2:   0.75000000
+   State   50 Energy:  -5.04300174 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 1  Dimension: 50       
+   State    1 Energy:  -5.83116944 S2:   6.00000000
+   State    2 Energy:  -5.77549369 S2:   2.00000000
+   State    3 Energy:  -5.77466409 S2:   6.00000000
+   State    4 Energy:  -5.76374549 S2:   2.00000000
+   State    5 Energy:  -5.76360620 S2:   2.00000000
+   State    6 Energy:  -5.73480823 S2:   2.00000000
+   State    7 Energy:  -5.73084945 S2:   6.00000000
+   State    8 Energy:  -5.73070999 S2:   6.00000000
+   State    9 Energy:  -5.71736846 S2:   2.00000000
+   State   10 Energy:  -5.71727823 S2:   2.00000000
+   State   11 Energy:  -5.71648679 S2:   2.00000000
+   State   12 Energy:  -5.71526674 S2:   2.00000000
+   State   13 Energy:  -5.71427815 S2:   6.00000000
+   State   14 Energy:  -5.70653714 S2:   2.00000000
+   State   15 Energy:  -5.69438943 S2:   2.00000000
+   State   16 Energy:  -5.68924780 S2:   2.00000000
+   State   17 Energy:  -5.68916125 S2:   2.00000000
+   State   18 Energy:  -5.67863102 S2:   2.00000000
+   State   19 Energy:  -5.66516690 S2:   2.00000000
+   State   20 Energy:  -5.65872796 S2:   2.00000000
+   State   21 Energy:  -5.65869753 S2:   2.00000000
+   State   22 Energy:  -5.65704533 S2:   2.00000000
+   State   23 Energy:  -5.65673329 S2:   2.00000000
+   State   24 Energy:  -5.64305642 S2:   2.00000000
+   State   25 Energy:  -5.64298888 S2:   2.00000000
+   State   26 Energy:  -5.63985760 S2:   2.00000000
+   State   27 Energy:  -5.63543111 S2:   2.00000000
+   State   28 Energy:  -5.63531010 S2:   2.00000000
+   State   29 Energy:  -5.62410224 S2:   2.00000000
+   State   30 Energy:  -5.61528966 S2:   2.00000000
+   State   31 Energy:  -5.61524716 S2:   2.00000000
+   State   32 Energy:  -5.61160767 S2:   2.00000000
+   State   33 Energy:  -5.60924212 S2:   2.00000000
+   State   34 Energy:  -5.60483516 S2:   2.00000000
+   State   35 Energy:  -5.60472573 S2:   2.00000000
+   State   36 Energy:  -5.59992829 S2:   2.00000000
+   State   37 Energy:  -5.59231573 S2:   2.00000000
+   State   38 Energy:  -5.58305461 S2:   2.00000000
+   State   39 Energy:  -5.58299740 S2:   2.00000000
+   State   40 Energy:  -5.57311589 S2:   2.00000000
+   State   41 Energy:  -5.51361757 S2:   2.00000000
+   State   42 Energy:  -5.51054163 S2:   2.00000000
+   State   43 Energy:  -5.51051219 S2:   2.00000000
+   State   44 Energy:  -5.49950741 S2:   2.00000000
+   State   45 Energy:  -5.49946268 S2:   2.00000000
+   State   46 Energy:  -5.49422675 S2:   2.00000000
+   State   47 Energy:  -5.49111688 S2:   2.00000000
+   State   48 Energy:  -5.45134261 S2:   2.00000000
+   State   49 Energy:  -5.45114370 S2:   2.00000000
+   State   50 Energy:  -5.43121260 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 2  Dimension: 10       
+   State    1 Energy:  -4.43335836 S2:   2.00000000
+   State    2 Energy:  -4.43325839 S2:   2.00000000
+   State    3 Energy:  -4.41200246 S2:   2.00000000
+   State    4 Energy:  -4.32612142 S2:   2.00000000
+   State    5 Energy:  -4.32601100 S2:   2.00000000
+   State    6 Energy:  -4.29787142 S2:   2.00000000
+   State    7 Energy:  -4.26610859 S2:   2.00000000
+   State    8 Energy:  -4.19224819 S2:   2.00000000
+   State    9 Energy:  -4.19216042 S2:   2.00000000
+   State   10 Energy:  -4.15757176 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 3  Dimension: 50       
+   State    1 Energy:  -5.83116944 S2:   6.00000000
+   State    2 Energy:  -5.77549369 S2:   2.00000000
+   State    3 Energy:  -5.77466409 S2:   6.00000000
+   State    4 Energy:  -5.76374549 S2:   2.00000000
+   State    5 Energy:  -5.76360620 S2:   2.00000000
+   State    6 Energy:  -5.73480823 S2:   2.00000000
+   State    7 Energy:  -5.73084945 S2:   6.00000000
+   State    8 Energy:  -5.73070999 S2:   6.00000000
+   State    9 Energy:  -5.71736846 S2:   2.00000000
+   State   10 Energy:  -5.71727823 S2:   2.00000000
+   State   11 Energy:  -5.71648679 S2:   2.00000000
+   State   12 Energy:  -5.71526674 S2:   2.00000000
+   State   13 Energy:  -5.71427815 S2:   6.00000000
+   State   14 Energy:  -5.70653714 S2:   2.00000000
+   State   15 Energy:  -5.69438943 S2:   2.00000000
+   State   16 Energy:  -5.68924780 S2:   2.00000000
+   State   17 Energy:  -5.68916125 S2:   2.00000000
+   State   18 Energy:  -5.67863102 S2:   2.00000000
+   State   19 Energy:  -5.66516690 S2:   2.00000000
+   State   20 Energy:  -5.65872796 S2:   2.00000000
+   State   21 Energy:  -5.65869753 S2:   2.00000000
+   State   22 Energy:  -5.65704533 S2:   2.00000000
+   State   23 Energy:  -5.65673329 S2:   2.00000000
+   State   24 Energy:  -5.64305642 S2:   2.00000000
+   State   25 Energy:  -5.64298888 S2:   2.00000000
+   State   26 Energy:  -5.63985760 S2:   2.00000000
+   State   27 Energy:  -5.63543111 S2:   2.00000000
+   State   28 Energy:  -5.63531010 S2:   2.00000000
+   State   29 Energy:  -5.62410224 S2:   2.00000000
+   State   30 Energy:  -5.61528966 S2:   2.00000000
+   State   31 Energy:  -5.61524716 S2:   2.00000000
+   State   32 Energy:  -5.61160767 S2:   2.00000000
+   State   33 Energy:  -5.60924212 S2:   2.00000000
+   State   34 Energy:  -5.60483516 S2:   2.00000000
+   State   35 Energy:  -5.60472573 S2:   2.00000000
+   State   36 Energy:  -5.59992829 S2:   2.00000000
+   State   37 Energy:  -5.59231573 S2:   2.00000000
+   State   38 Energy:  -5.58305461 S2:   2.00000000
+   State   39 Energy:  -5.58299740 S2:   2.00000000
+   State   40 Energy:  -5.57311589 S2:   2.00000000
+   State   41 Energy:  -5.51361757 S2:   2.00000000
+   State   42 Energy:  -5.51054163 S2:   2.00000000
+   State   43 Energy:  -5.51051219 S2:   2.00000000
+   State   44 Energy:  -5.49950741 S2:   2.00000000
+   State   45 Energy:  -5.49946268 S2:   2.00000000
+   State   46 Energy:  -5.49422675 S2:   2.00000000
+   State   47 Energy:  -5.49111688 S2:   2.00000000
+   State   48 Energy:  -5.45134261 S2:   2.00000000
+   State   49 Energy:  -5.45114370 S2:   2.00000000
+   State   50 Energy:  -5.43121260 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 3  Dimension: 10       
+   State    1 Energy:  -5.53629179 S2:   3.75000000
+   State    2 Energy:  -5.45335233 S2:   3.75000000
+   State    3 Energy:  -5.44377209 S2:   3.75000000
+   State    4 Energy:  -5.44369254 S2:   3.75000000
+   State    5 Energy:  -5.38045819 S2:   3.75000000
+   State    6 Energy:  -5.38037371 S2:   3.75000000
+   State    7 Energy:  -5.34909736 S2:   3.75000000
+   State    8 Energy:  -5.29277710 S2:   3.75000000
+   State    9 Energy:  -5.29214418 S2:   3.75000000
+   State   10 Energy:  -5.29182805 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 4  Dimension: 25       
+   State    1 Energy:  -5.41353767 S2:   8.75000000
+   State    2 Energy:  -5.31817576 S2:   3.75000000
+   State    3 Energy:  -5.31797205 S2:   3.75000000
+   State    4 Energy:  -5.30367749 S2:   3.75000000
+   State    5 Energy:  -5.30042793 S2:   3.75000000
+   State    6 Energy:  -5.28789316 S2:   3.75000000
+   State    7 Energy:  -5.28561642 S2:   3.75000000
+   State    8 Energy:  -5.28251243 S2:   3.75000000
+   State    9 Energy:  -5.28241803 S2:   3.75000000
+   State   10 Energy:  -5.28201521 S2:   3.75000000
+   State   11 Energy:  -5.25982264 S2:   3.75000000
+   State   12 Energy:  -5.25561025 S2:   3.75000000
+   State   13 Energy:  -5.25366630 S2:   3.75000000
+   State   14 Energy:  -5.25358768 S2:   3.75000000
+   State   15 Energy:  -5.25165152 S2:   3.75000000
+   State   16 Energy:  -5.24031574 S2:   3.75000000
+   State   17 Energy:  -5.22764287 S2:   3.75000000
+   State   18 Energy:  -5.22761870 S2:   3.75000000
+   State   19 Energy:  -5.18368720 S2:   3.75000000
+   State   20 Energy:  -5.18317899 S2:   3.75000000
+   State   21 Energy:  -5.18309022 S2:   3.75000000
+   State   22 Energy:  -5.17927440 S2:   3.75000000
+   State   23 Energy:  -5.17236447 S2:   3.75000000
+   State   24 Energy:  -5.17226176 S2:   3.75000000
+   State   25 Energy:  -5.14651692 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 4  Dimension: 5        
+   State    1 Energy:  -5.83116944 S2:   6.00000000
+   State    2 Energy:  -5.77466409 S2:   6.00000000
+   State    3 Energy:  -5.73084945 S2:   6.00000000
+   State    4 Energy:  -5.73070999 S2:   6.00000000
+   State    5 Energy:  -5.71427815 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 0  Dimension: 5        
+   State    1 Energy:  -5.83116944 S2:   6.00000000
+   State    2 Energy:  -5.77466409 S2:   6.00000000
+   State    3 Energy:  -5.73084945 S2:   6.00000000
+   State    4 Energy:  -5.73070999 S2:   6.00000000
+   State    5 Energy:  -5.71427815 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 2  Dimension: 100      
+   State    1 Energy:  -5.41353767 S2:   8.75000000
+   State    2 Energy:  -5.31817576 S2:   3.75000000
+   State    3 Energy:  -5.31797205 S2:   3.75000000
+   State    4 Energy:  -5.30367749 S2:   3.75000000
+   State    5 Energy:  -5.30042793 S2:   3.75000000
+   State    6 Energy:  -5.28789316 S2:   3.75000000
+   State    7 Energy:  -5.28561642 S2:   3.75000000
+   State    8 Energy:  -5.28251243 S2:   3.75000000
+   State    9 Energy:  -5.28241803 S2:   3.75000000
+   State   10 Energy:  -5.28201521 S2:   3.75000000
+   State   11 Energy:  -5.27400933 S2:   0.75000000
+   State   12 Energy:  -5.27382862 S2:   0.75000000
+   State   13 Energy:  -5.26922606 S2:   0.75000000
+   State   14 Energy:  -5.25982264 S2:   3.75000000
+   State   15 Energy:  -5.25561025 S2:   3.75000000
+   State   16 Energy:  -5.25501445 S2:   0.75000000
+   State   17 Energy:  -5.25485761 S2:   0.75000000
+   State   18 Energy:  -5.25366630 S2:   3.75000000
+   State   19 Energy:  -5.25358768 S2:   3.75000000
+   State   20 Energy:  -5.25165152 S2:   3.75000000
+   State   21 Energy:  -5.24975278 S2:   0.75000000
+   State   22 Energy:  -5.24555308 S2:   0.75000000
+   State   23 Energy:  -5.24542688 S2:   0.75000000
+   State   24 Energy:  -5.24456282 S2:   0.75000000
+   State   25 Energy:  -5.24031574 S2:   3.75000000
+   State   26 Energy:  -5.23802188 S2:   0.75000000
+   State   27 Energy:  -5.23403403 S2:   0.75000000
+   State   28 Energy:  -5.23178633 S2:   0.75000000
+   State   29 Energy:  -5.22783056 S2:   0.75000000
+   State   30 Energy:  -5.22764287 S2:   3.75000000
+   State   31 Energy:  -5.22761870 S2:   3.75000000
+   State   32 Energy:  -5.22164964 S2:   0.75000000
+   State   33 Energy:  -5.22151011 S2:   0.75000000
+   State   34 Energy:  -5.22105277 S2:   0.75000000
+   State   35 Energy:  -5.21598564 S2:   0.75000000
+   State   36 Energy:  -5.21213451 S2:   0.75000000
+   State   37 Energy:  -5.21008276 S2:   0.75000000
+   State   38 Energy:  -5.20949718 S2:   0.75000000
+   State   39 Energy:  -5.20107969 S2:   0.75000000
+   State   40 Energy:  -5.20099133 S2:   0.75000000
+   State   41 Energy:  -5.20050182 S2:   0.75000000
+   State   42 Energy:  -5.19718957 S2:   0.75000000
+   State   43 Energy:  -5.19703391 S2:   0.75000000
+   State   44 Energy:  -5.19372788 S2:   0.75000000
+   State   45 Energy:  -5.18669353 S2:   0.75000000
+   State   46 Energy:  -5.18368720 S2:   3.75000000
+   State   47 Energy:  -5.18317899 S2:   3.75000000
+   State   48 Energy:  -5.18309022 S2:   3.75000000
+   State   49 Energy:  -5.17927440 S2:   3.75000000
+   State   50 Energy:  -5.17910939 S2:   0.75000000
+   State   51 Energy:  -5.17845958 S2:   0.75000000
+   State   52 Energy:  -5.17835838 S2:   0.75000000
+   State   53 Energy:  -5.17830712 S2:   0.75000000
+   State   54 Energy:  -5.17253536 S2:   0.75000000
+   State   55 Energy:  -5.17236447 S2:   3.75000000
+   State   56 Energy:  -5.17226176 S2:   3.75000000
+   State   57 Energy:  -5.17216694 S2:   0.75000000
+   State   58 Energy:  -5.17198025 S2:   0.75000000
+   State   59 Energy:  -5.17179251 S2:   0.75000000
+   State   60 Energy:  -5.16293760 S2:   0.75000000
+   State   61 Energy:  -5.16281354 S2:   0.75000000
+   State   62 Energy:  -5.15852787 S2:   0.75000000
+   State   63 Energy:  -5.15848861 S2:   0.75000000
+   State   64 Energy:  -5.15644183 S2:   0.75000000
+   State   65 Energy:  -5.15267057 S2:   0.75000000
+   State   66 Energy:  -5.15173560 S2:   0.75000000
+   State   67 Energy:  -5.15021866 S2:   0.75000000
+   State   68 Energy:  -5.14885745 S2:   0.75000000
+   State   69 Energy:  -5.14878946 S2:   0.75000000
+   State   70 Energy:  -5.14651692 S2:   3.75000000
+   State   71 Energy:  -5.14238768 S2:   0.75000000
+   State   72 Energy:  -5.13732699 S2:   0.75000000
+   State   73 Energy:  -5.13730521 S2:   0.75000000
+   State   74 Energy:  -5.13493806 S2:   0.75000000
+   State   75 Energy:  -5.13170884 S2:   0.75000000
+   State   76 Energy:  -5.12174790 S2:   0.75000000
+   State   77 Energy:  -5.11927795 S2:   0.75000000
+   State   78 Energy:  -5.11917499 S2:   0.75000000
+   State   79 Energy:  -5.08837089 S2:   0.75000000
+   State   80 Energy:  -5.08835068 S2:   0.75000000
+   State   81 Energy:  -5.08647053 S2:   0.75000000
+   State   82 Energy:  -5.08290352 S2:   0.75000000
+   State   83 Energy:  -5.07868815 S2:   0.75000000
+   State   84 Energy:  -5.06519298 S2:   0.75000000
+   State   85 Energy:  -5.06018375 S2:   0.75000000
+   State   86 Energy:  -5.06015961 S2:   0.75000000
+   State   87 Energy:  -5.05535537 S2:   0.75000000
+   State   88 Energy:  -5.04965013 S2:   0.75000000
+   State   89 Energy:  -5.04804218 S2:   0.75000000
+   State   90 Energy:  -5.04800424 S2:   0.75000000
+   State   91 Energy:  -5.04588127 S2:   0.75000000
+   State   92 Energy:  -5.03861502 S2:   0.75000000
+   State   93 Energy:  -4.99432332 S2:   0.75000000
+   State   94 Energy:  -4.99416724 S2:   0.75000000
+   State   95 Energy:  -4.97790520 S2:   0.75000000
+   State   96 Energy:  -4.94155403 S2:   0.75000000
+   State   97 Energy:  -4.93953049 S2:   0.75000000
+   State   98 Energy:  -4.92410615 S2:   0.75000000
+   State   99 Energy:  -4.92371608 S2:   0.75000000
+   State  100 Energy:  -4.92353176 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 0  Dimension: 10       
+   State    1 Energy:  -4.43335836 S2:   2.00000000
+   State    2 Energy:  -4.43325839 S2:   2.00000000
+   State    3 Energy:  -4.41200246 S2:   2.00000000
+   State    4 Energy:  -4.32612142 S2:   2.00000000
+   State    5 Energy:  -4.32601100 S2:   2.00000000
+   State    6 Energy:  -4.29787142 S2:   2.00000000
+   State    7 Energy:  -4.26610859 S2:   2.00000000
+   State    8 Energy:  -4.19224819 S2:   2.00000000
+   State    9 Energy:  -4.19216042 S2:   2.00000000
+   State   10 Energy:  -4.15757176 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 3  Dimension: 100      
+   State    1 Energy:  -4.16146606 S2:   6.00000000
+   State    2 Energy:  -4.15964730 S2:   6.00000000
+   State    3 Energy:  -4.15423804 S2:   6.00000000
+   State    4 Energy:  -4.15391919 S2:   6.00000000
+   State    5 Energy:  -4.14219827 S2:   6.00000000
+   State    6 Energy:  -4.07501569 S2:   2.00000000
+   State    7 Energy:  -4.07414761 S2:   2.00000000
+   State    8 Energy:  -4.07391220 S2:   2.00000000
+   State    9 Energy:  -4.07308989 S2:   2.00000000
+   State   10 Energy:  -4.07075642 S2:   2.00000000
+   State   11 Energy:  -4.07069900 S2:   2.00000000
+   State   12 Energy:  -4.06955967 S2:   2.00000000
+   State   13 Energy:  -4.06849643 S2:   2.00000000
+   State   14 Energy:  -4.06845643 S2:   2.00000000
+   State   15 Energy:  -4.06422203 S2:   2.00000000
+   State   16 Energy:  -4.06364764 S2:   2.00000000
+   State   17 Energy:  -4.05844933 S2:   2.00000000
+   State   18 Energy:  -4.05598297 S2:   2.00000000
+   State   19 Energy:  -4.05580009 S2:   2.00000000
+   State   20 Energy:  -4.05505573 S2:   2.00000000
+   State   21 Energy:  -4.05399456 S2:   2.00000000
+   State   22 Energy:  -4.05389879 S2:   2.00000000
+   State   23 Energy:  -4.04942174 S2:   2.00000000
+   State   24 Energy:  -4.04752600 S2:   2.00000000
+   State   25 Energy:  -4.04749114 S2:   2.00000000
+   State   26 Energy:  -4.04652729 S2:   2.00000000
+   State   27 Energy:  -4.04454193 S2:   2.00000000
+   State   28 Energy:  -4.04398622 S2:   2.00000000
+   State   29 Energy:  -4.04394827 S2:   2.00000000
+   State   30 Energy:  -4.04365658 S2:   2.00000000
+   State   31 Energy:  -4.04051156 S2:   2.00000000
+   State   32 Energy:  -4.03627573 S2:   2.00000000
+   State   33 Energy:  -4.03618874 S2:   2.00000000
+   State   34 Energy:  -4.03607328 S2:   2.00000000
+   State   35 Energy:  -4.03250171 S2:   2.00000000
+   State   36 Energy:  -4.03217464 S2:   0.00000000
+   State   37 Energy:  -4.03156259 S2:   0.00000000
+   State   38 Energy:  -4.03071840 S2:   0.00000000
+   State   39 Energy:  -4.03064569 S2:  -0.00000000
+   State   40 Energy:  -4.02978559 S2:   0.00000000
+   State   41 Energy:  -4.02751342 S2:  -0.00000000
+   State   42 Energy:  -4.02736175 S2:  -0.00000000
+   State   43 Energy:  -4.02684047 S2:  -0.00000000
+   State   44 Energy:  -4.02378802 S2:  -0.00000000
+   State   45 Energy:  -4.02361171 S2:   0.00000000
+   State   46 Energy:  -4.02344536 S2:  -0.00000000
+   State   47 Energy:  -4.01967349 S2:  -0.00000000
+   State   48 Energy:  -4.01924033 S2:   0.00000000
+   State   49 Energy:  -4.01326207 S2:   0.00000000
+   State   50 Energy:  -4.01311820 S2:   2.00000000
+   State   51 Energy:  -4.01300487 S2:   2.00000000
+   State   52 Energy:  -4.01197770 S2:  -0.00000000
+   State   53 Energy:  -4.01186032 S2:  -0.00000000
+   State   54 Energy:  -4.01054247 S2:   0.00000000
+   State   55 Energy:  -4.00923557 S2:   0.00000000
+   State   56 Energy:  -4.00864372 S2:   2.00000000
+   State   57 Energy:  -4.00623644 S2:   0.00000000
+   State   58 Energy:  -4.00577276 S2:   2.00000000
+   State   59 Energy:  -4.00437348 S2:   0.00000000
+   State   60 Energy:  -4.00419332 S2:   2.00000000
+   State   61 Energy:  -4.00396520 S2:  -0.00000000
+   State   62 Energy:  -4.00382848 S2:  -0.00000000
+   State   63 Energy:  -3.99115202 S2:  -0.00000000
+   State   64 Energy:  -3.98951640 S2:  -0.00000000
+   State   65 Energy:  -3.98939623 S2:  -0.00000000
+   State   66 Energy:  -3.97650665 S2:   0.00000000
+   State   67 Energy:  -3.96926064 S2:  -0.00000000
+   State   68 Energy:  -3.96907767 S2:  -0.00000000
+   State   69 Energy:  -3.96216610 S2:  -0.00000000
+   State   70 Energy:  -3.95610026 S2:   0.00000000
+   State   71 Energy:  -3.95598984 S2:  -0.00000000
+   State   72 Energy:  -3.95173622 S2:  -0.00000000
+   State   73 Energy:  -3.95028368 S2:   0.00000000
+   State   74 Energy:  -3.94336136 S2:   0.00000000
+   State   75 Energy:  -3.94335580 S2:  -0.00000000
+   State   76 Energy:  -3.93401140 S2:   2.00000000
+   State   77 Energy:  -3.92144029 S2:   2.00000000
+   State   78 Energy:  -3.92135430 S2:   2.00000000
+   State   79 Energy:  -3.91553471 S2:   2.00000000
+   State   80 Energy:  -3.91195486 S2:   2.00000000
+   State   81 Energy:  -3.91128400 S2:   2.00000000
+   State   82 Energy:  -3.91112725 S2:   2.00000000
+   State   83 Energy:  -3.90407169 S2:   2.00000000
+   State   84 Energy:  -3.90160881 S2:   2.00000000
+   State   85 Energy:  -3.90140614 S2:   2.00000000
+   State   86 Energy:  -3.89097111 S2:   0.00000000
+   State   87 Energy:  -3.88799331 S2:  -0.00000000
+   State   88 Energy:  -3.88792576 S2:   0.00000000
+   State   89 Energy:  -3.88356747 S2:  -0.00000000
+   State   90 Energy:  -3.88166999 S2:   0.00000000
+   State   91 Energy:  -3.88153228 S2:   0.00000000
+   State   92 Energy:  -3.87911007 S2:   0.00000000
+   State   93 Energy:  -3.87734670 S2:   0.00000000
+   State   94 Energy:  -3.87174029 S2:  -0.00000000
+   State   95 Energy:  -3.80106269 S2:  -0.00000000
+   State   96 Energy:  -3.79812576 S2:  -0.00000000
+   State   97 Energy:  -3.78234862 S2:  -0.00000000
+   State   98 Energy:  -3.78003951 S2:  -0.00000000
+   State   99 Energy:  -3.77997027 S2:   0.00000000
+   State  100 Energy:  -3.67697418 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 1  Dimension: 25       
+   State    1 Energy:  -5.41353767 S2:   8.75000000
+   State    2 Energy:  -5.31817576 S2:   3.75000000
+   State    3 Energy:  -5.31797205 S2:   3.75000000
+   State    4 Energy:  -5.30367749 S2:   3.75000000
+   State    5 Energy:  -5.30042793 S2:   3.75000000
+   State    6 Energy:  -5.28789316 S2:   3.75000000
+   State    7 Energy:  -5.28561642 S2:   3.75000000
+   State    8 Energy:  -5.28251243 S2:   3.75000000
+   State    9 Energy:  -5.28241803 S2:   3.75000000
+   State   10 Energy:  -5.28201521 S2:   3.75000000
+   State   11 Energy:  -5.25982264 S2:   3.75000000
+   State   12 Energy:  -5.25561025 S2:   3.75000000
+   State   13 Energy:  -5.25366630 S2:   3.75000000
+   State   14 Energy:  -5.25358768 S2:   3.75000000
+   State   15 Energy:  -5.25165152 S2:   3.75000000
+   State   16 Energy:  -5.24031574 S2:   3.75000000
+   State   17 Energy:  -5.22764287 S2:   3.75000000
+   State   18 Energy:  -5.22761870 S2:   3.75000000
+   State   19 Energy:  -5.18368720 S2:   3.75000000
+   State   20 Energy:  -5.18317899 S2:   3.75000000
+   State   21 Energy:  -5.18309022 S2:   3.75000000
+   State   22 Energy:  -5.17927440 S2:   3.75000000
+   State   23 Energy:  -5.17236447 S2:   3.75000000
+   State   24 Energy:  -5.17226176 S2:   3.75000000
+   State   25 Energy:  -5.14651692 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 1  Dimension: 50       
+   State    1 Energy:  -5.53629179 S2:   3.75000000
+   State    2 Energy:  -5.45335233 S2:   3.75000000
+   State    3 Energy:  -5.44799932 S2:   0.75000000
+   State    4 Energy:  -5.44779984 S2:   0.75000000
+   State    5 Energy:  -5.44776522 S2:   0.75000000
+   State    6 Energy:  -5.44555912 S2:   0.75000000
+   State    7 Energy:  -5.44377209 S2:   3.75000000
+   State    8 Energy:  -5.44369254 S2:   3.75000000
+   State    9 Energy:  -5.44264420 S2:   0.75000000
+   State   10 Energy:  -5.40079559 S2:   0.75000000
+   State   11 Energy:  -5.40056001 S2:   0.75000000
+   State   12 Energy:  -5.40052568 S2:   0.75000000
+   State   13 Energy:  -5.38045819 S2:   3.75000000
+   State   14 Energy:  -5.38037371 S2:   3.75000000
+   State   15 Energy:  -5.37365610 S2:   0.75000000
+   State   16 Energy:  -5.37358592 S2:   0.75000000
+   State   17 Energy:  -5.36678477 S2:   0.75000000
+   State   18 Energy:  -5.36678344 S2:   0.75000000
+   State   19 Energy:  -5.35900472 S2:   0.75000000
+   State   20 Energy:  -5.34909736 S2:   3.75000000
+   State   21 Energy:  -5.34632934 S2:   0.75000000
+   State   22 Energy:  -5.33533299 S2:   0.75000000
+   State   23 Energy:  -5.33527541 S2:   0.75000000
+   State   24 Energy:  -5.32490580 S2:   0.75000000
+   State   25 Energy:  -5.31213367 S2:   0.75000000
+   State   26 Energy:  -5.31207324 S2:   0.75000000
+   State   27 Energy:  -5.29277710 S2:   3.75000000
+   State   28 Energy:  -5.29214418 S2:   3.75000000
+   State   29 Energy:  -5.29182805 S2:   3.75000000
+   State   30 Energy:  -5.28082433 S2:   0.75000000
+   State   31 Energy:  -5.28072606 S2:   0.75000000
+   State   32 Energy:  -5.27305606 S2:   0.75000000
+   State   33 Energy:  -5.26645906 S2:   0.75000000
+   State   34 Energy:  -5.25949936 S2:   0.75000000
+   State   35 Energy:  -5.25946478 S2:   0.75000000
+   State   36 Energy:  -5.25167049 S2:   0.75000000
+   State   37 Energy:  -5.23030197 S2:   0.75000000
+   State   38 Energy:  -5.22716492 S2:   0.75000000
+   State   39 Energy:  -5.22704703 S2:   0.75000000
+   State   40 Energy:  -5.21869343 S2:   0.75000000
+   State   41 Energy:  -5.21248149 S2:   0.75000000
+   State   42 Energy:  -5.20142806 S2:   0.75000000
+   State   43 Energy:  -5.19550494 S2:   0.75000000
+   State   44 Energy:  -5.19104217 S2:   0.75000000
+   State   45 Energy:  -5.19092063 S2:   0.75000000
+   State   46 Energy:  -5.12930807 S2:   0.75000000
+   State   47 Energy:  -5.10018587 S2:   0.75000000
+   State   48 Energy:  -5.05979957 S2:   0.75000000
+   State   49 Energy:  -5.04314914 S2:   0.75000000
+   State   50 Energy:  -5.04300174 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 5  Dimension: 5        
+   State    1 Energy:  -4.16146606 S2:   6.00000000
+   State    2 Energy:  -4.15964730 S2:   6.00000000
+   State    3 Energy:  -4.15423804 S2:   6.00000000
+   State    4 Energy:  -4.15391919 S2:   6.00000000
+   State    5 Energy:  -4.14219827 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 5  Dimension: 1        
+   State    1 Energy:  -5.41353767 S2:   8.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 0  Dimension: 1        
+   State    1 Energy:  -5.41353767 S2:   8.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 2  Dimension: 50       
+   State    1 Energy:  -4.16146606 S2:   6.00000000
+   State    2 Energy:  -4.15964730 S2:   6.00000000
+   State    3 Energy:  -4.15423804 S2:   6.00000000
+   State    4 Energy:  -4.15391919 S2:   6.00000000
+   State    5 Energy:  -4.14219827 S2:   6.00000000
+   State    6 Energy:  -4.07501569 S2:   2.00000000
+   State    7 Energy:  -4.07414761 S2:   2.00000000
+   State    8 Energy:  -4.07391220 S2:   2.00000000
+   State    9 Energy:  -4.07308989 S2:   2.00000000
+   State   10 Energy:  -4.07075642 S2:   2.00000000
+   State   11 Energy:  -4.07069900 S2:   2.00000000
+   State   12 Energy:  -4.06955967 S2:   2.00000000
+   State   13 Energy:  -4.06849643 S2:   2.00000000
+   State   14 Energy:  -4.06845643 S2:   2.00000000
+   State   15 Energy:  -4.06422203 S2:   2.00000000
+   State   16 Energy:  -4.06364764 S2:   2.00000000
+   State   17 Energy:  -4.05844933 S2:   2.00000000
+   State   18 Energy:  -4.05598297 S2:   2.00000000
+   State   19 Energy:  -4.05580009 S2:   2.00000000
+   State   20 Energy:  -4.05505573 S2:   2.00000000
+   State   21 Energy:  -4.05399456 S2:   2.00000000
+   State   22 Energy:  -4.05389879 S2:   2.00000000
+   State   23 Energy:  -4.04942174 S2:   2.00000000
+   State   24 Energy:  -4.04752600 S2:   2.00000000
+   State   25 Energy:  -4.04749114 S2:   2.00000000
+   State   26 Energy:  -4.04652729 S2:   2.00000000
+   State   27 Energy:  -4.04454193 S2:   2.00000000
+   State   28 Energy:  -4.04398622 S2:   2.00000000
+   State   29 Energy:  -4.04394827 S2:   2.00000000
+   State   30 Energy:  -4.04365658 S2:   2.00000000
+   State   31 Energy:  -4.04051156 S2:   2.00000000
+   State   32 Energy:  -4.03627573 S2:   2.00000000
+   State   33 Energy:  -4.03618874 S2:   2.00000000
+   State   34 Energy:  -4.03607328 S2:   2.00000000
+   State   35 Energy:  -4.03250171 S2:   2.00000000
+   State   36 Energy:  -4.01311820 S2:   2.00000000
+   State   37 Energy:  -4.01300487 S2:   2.00000000
+   State   38 Energy:  -4.00864372 S2:   2.00000000
+   State   39 Energy:  -4.00577276 S2:   2.00000000
+   State   40 Energy:  -4.00419332 S2:   2.00000000
+   State   41 Energy:  -3.93401140 S2:   2.00000000
+   State   42 Energy:  -3.92144029 S2:   2.00000000
+   State   43 Energy:  -3.92135430 S2:   2.00000000
+   State   44 Energy:  -3.91553471 S2:   2.00000000
+   State   45 Energy:  -3.91195486 S2:   2.00000000
+   State   46 Energy:  -3.91128400 S2:   2.00000000
+   State   47 Energy:  -3.91112725 S2:   2.00000000
+   State   48 Energy:  -3.90407169 S2:   2.00000000
+   State   49 Energy:  -3.90160881 S2:   2.00000000
+   State   50 Energy:  -3.90140614 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 1  Dimension: 5        
+   State    1 Energy:  -4.16146606 S2:   6.00000000
+   State    2 Energy:  -4.15964730 S2:   6.00000000
+   State    3 Energy:  -4.15423804 S2:   6.00000000
+   State    4 Energy:  -4.15391919 S2:   6.00000000
+   State    5 Energy:  -4.14219827 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 2  Dimension: 100      
+   State    1 Energy:  -5.83116944 S2:   6.00000000
+   State    2 Energy:  -5.77549369 S2:   2.00000000
+   State    3 Energy:  -5.77466409 S2:   6.00000000
+   State    4 Energy:  -5.76374549 S2:   2.00000000
+   State    5 Energy:  -5.76360620 S2:   2.00000000
+   State    6 Energy:  -5.73480823 S2:   2.00000000
+   State    7 Energy:  -5.73084945 S2:   6.00000000
+   State    8 Energy:  -5.73070999 S2:   6.00000000
+   State    9 Energy:  -5.72456694 S2:  -0.00000000
+   State   10 Energy:  -5.72022601 S2:   0.00000000
+   State   11 Energy:  -5.71736846 S2:   2.00000000
+   State   12 Energy:  -5.71727823 S2:   2.00000000
+   State   13 Energy:  -5.71648679 S2:   2.00000000
+   State   14 Energy:  -5.71526674 S2:   2.00000000
+   State   15 Energy:  -5.71427815 S2:   6.00000000
+   State   16 Energy:  -5.71370811 S2:  -0.00000000
+   State   17 Energy:  -5.71359553 S2:  -0.00000000
+   State   18 Energy:  -5.70653714 S2:   2.00000000
+   State   19 Energy:  -5.70460035 S2:   0.00000000
+   State   20 Energy:  -5.69438943 S2:   2.00000000
+   State   21 Energy:  -5.68924780 S2:   2.00000000
+   State   22 Energy:  -5.68916125 S2:   2.00000000
+   State   23 Energy:  -5.68607160 S2:  -0.00000000
+   State   24 Energy:  -5.68065548 S2:   0.00000000
+   State   25 Energy:  -5.67863102 S2:   2.00000000
+   State   26 Energy:  -5.67304701 S2:  -0.00000000
+   State   27 Energy:  -5.66624685 S2:   0.00000000
+   State   28 Energy:  -5.66612184 S2:  -0.00000000
+   State   29 Energy:  -5.66516690 S2:   2.00000000
+   State   30 Energy:  -5.65872796 S2:   2.00000000
+   State   31 Energy:  -5.65869753 S2:   2.00000000
+   State   32 Energy:  -5.65704533 S2:   2.00000000
+   State   33 Energy:  -5.65673329 S2:   2.00000000
+   State   34 Energy:  -5.65016065 S2:   0.00000000
+   State   35 Energy:  -5.64345454 S2:   0.00000000
+   State   36 Energy:  -5.64337305 S2:  -0.00000000
+   State   37 Energy:  -5.64305642 S2:   2.00000000
+   State   38 Energy:  -5.64298888 S2:   2.00000000
+   State   39 Energy:  -5.63985760 S2:   2.00000000
+   State   40 Energy:  -5.63543111 S2:   2.00000000
+   State   41 Energy:  -5.63531010 S2:   2.00000000
+   State   42 Energy:  -5.63416466 S2:  -0.00000000
+   State   43 Energy:  -5.62476924 S2:   0.00000000
+   State   44 Energy:  -5.62410224 S2:   2.00000000
+   State   45 Energy:  -5.61555213 S2:  -0.00000000
+   State   46 Energy:  -5.61528966 S2:   2.00000000
+   State   47 Energy:  -5.61524716 S2:   2.00000000
+   State   48 Energy:  -5.61160767 S2:   2.00000000
+   State   49 Energy:  -5.60924212 S2:   2.00000000
+   State   50 Energy:  -5.60720352 S2:   0.00000000
+   State   51 Energy:  -5.60586597 S2:   0.00000000
+   State   52 Energy:  -5.60585787 S2:   0.00000000
+   State   53 Energy:  -5.60483516 S2:   2.00000000
+   State   54 Energy:  -5.60472573 S2:   2.00000000
+   State   55 Energy:  -5.59992829 S2:   2.00000000
+   State   56 Energy:  -5.59555386 S2:  -0.00000000
+   State   57 Energy:  -5.59542445 S2:  -0.00000000
+   State   58 Energy:  -5.59231573 S2:   2.00000000
+   State   59 Energy:  -5.58803073 S2:  -0.00000000
+   State   60 Energy:  -5.58305461 S2:   2.00000000
+   State   61 Energy:  -5.58299740 S2:   2.00000000
+   State   62 Energy:  -5.57311589 S2:   2.00000000
+   State   63 Energy:  -5.56707363 S2:   0.00000000
+   State   64 Energy:  -5.56567275 S2:  -0.00000000
+   State   65 Energy:  -5.56547129 S2:   0.00000000
+   State   66 Energy:  -5.56502040 S2:  -0.00000000
+   State   67 Energy:  -5.56004709 S2:   0.00000000
+   State   68 Energy:  -5.55260108 S2:  -0.00000000
+   State   69 Energy:  -5.55139850 S2:  -0.00000000
+   State   70 Energy:  -5.55136825 S2:  -0.00000000
+   State   71 Energy:  -5.54696478 S2:  -0.00000000
+   State   72 Energy:  -5.54173845 S2:  -0.00000000
+   State   73 Energy:  -5.52481516 S2:  -0.00000000
+   State   74 Energy:  -5.51361757 S2:   2.00000000
+   State   75 Energy:  -5.51054163 S2:   2.00000000
+   State   76 Energy:  -5.51051219 S2:   2.00000000
+   State   77 Energy:  -5.50829748 S2:   0.00000000
+   State   78 Energy:  -5.50818164 S2:  -0.00000000
+   State   79 Energy:  -5.49950741 S2:   2.00000000
+   State   80 Energy:  -5.49946268 S2:   2.00000000
+   State   81 Energy:  -5.49422675 S2:   2.00000000
+   State   82 Energy:  -5.49111688 S2:   2.00000000
+   State   83 Energy:  -5.48747167 S2:  -0.00000000
+   State   84 Energy:  -5.48742419 S2:   0.00000000
+   State   85 Energy:  -5.48662587 S2:  -0.00000000
+   State   86 Energy:  -5.47054482 S2:  -0.00000000
+   State   87 Energy:  -5.45234580 S2:   0.00000000
+   State   88 Energy:  -5.45134261 S2:   2.00000000
+   State   89 Energy:  -5.45114370 S2:   2.00000000
+   State   90 Energy:  -5.43910775 S2:   0.00000000
+   State   91 Energy:  -5.43781770 S2:   0.00000000
+   State   92 Energy:  -5.43121260 S2:   2.00000000
+   State   93 Energy:  -5.41773292 S2:   0.00000000
+   State   94 Energy:  -5.41764842 S2:  -0.00000000
+   State   95 Energy:  -5.38794507 S2:   0.00000000
+   State   96 Energy:  -5.37840716 S2:  -0.00000000
+   State   97 Energy:  -5.37815983 S2:   0.00000000
+   State   98 Energy:  -5.34765325 S2:   0.00000000
+   State   99 Energy:  -5.33492842 S2:  -0.00000000
+   State  100 Energy:  -5.24123279 S2:  -0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 3  Dimension: 100      
+   State    1 Energy:  -5.41353767 S2:   8.75000000
+   State    2 Energy:  -5.31817576 S2:   3.75000000
+   State    3 Energy:  -5.31797205 S2:   3.75000000
+   State    4 Energy:  -5.30367749 S2:   3.75000000
+   State    5 Energy:  -5.30042793 S2:   3.75000000
+   State    6 Energy:  -5.28789316 S2:   3.75000000
+   State    7 Energy:  -5.28561642 S2:   3.75000000
+   State    8 Energy:  -5.28251243 S2:   3.75000000
+   State    9 Energy:  -5.28241803 S2:   3.75000000
+   State   10 Energy:  -5.28201521 S2:   3.75000000
+   State   11 Energy:  -5.27400933 S2:   0.75000000
+   State   12 Energy:  -5.27382862 S2:   0.75000000
+   State   13 Energy:  -5.26922606 S2:   0.75000000
+   State   14 Energy:  -5.25982264 S2:   3.75000000
+   State   15 Energy:  -5.25561025 S2:   3.75000000
+   State   16 Energy:  -5.25501445 S2:   0.75000000
+   State   17 Energy:  -5.25485761 S2:   0.75000000
+   State   18 Energy:  -5.25366630 S2:   3.75000000
+   State   19 Energy:  -5.25358768 S2:   3.75000000
+   State   20 Energy:  -5.25165152 S2:   3.75000000
+   State   21 Energy:  -5.24975278 S2:   0.75000000
+   State   22 Energy:  -5.24555308 S2:   0.75000000
+   State   23 Energy:  -5.24542688 S2:   0.75000000
+   State   24 Energy:  -5.24456282 S2:   0.75000000
+   State   25 Energy:  -5.24031574 S2:   3.75000000
+   State   26 Energy:  -5.23802188 S2:   0.75000000
+   State   27 Energy:  -5.23403403 S2:   0.75000000
+   State   28 Energy:  -5.23178633 S2:   0.75000000
+   State   29 Energy:  -5.22783056 S2:   0.75000000
+   State   30 Energy:  -5.22764287 S2:   3.75000000
+   State   31 Energy:  -5.22761870 S2:   3.75000000
+   State   32 Energy:  -5.22164964 S2:   0.75000000
+   State   33 Energy:  -5.22151011 S2:   0.75000000
+   State   34 Energy:  -5.22105277 S2:   0.75000000
+   State   35 Energy:  -5.21598564 S2:   0.75000000
+   State   36 Energy:  -5.21213451 S2:   0.75000000
+   State   37 Energy:  -5.21008276 S2:   0.75000000
+   State   38 Energy:  -5.20949718 S2:   0.75000000
+   State   39 Energy:  -5.20107969 S2:   0.75000000
+   State   40 Energy:  -5.20099133 S2:   0.75000000
+   State   41 Energy:  -5.20050182 S2:   0.75000000
+   State   42 Energy:  -5.19718957 S2:   0.75000000
+   State   43 Energy:  -5.19703391 S2:   0.75000000
+   State   44 Energy:  -5.19372788 S2:   0.75000000
+   State   45 Energy:  -5.18669353 S2:   0.75000000
+   State   46 Energy:  -5.18368720 S2:   3.75000000
+   State   47 Energy:  -5.18317899 S2:   3.75000000
+   State   48 Energy:  -5.18309022 S2:   3.75000000
+   State   49 Energy:  -5.17927440 S2:   3.75000000
+   State   50 Energy:  -5.17910939 S2:   0.75000000
+   State   51 Energy:  -5.17845958 S2:   0.75000000
+   State   52 Energy:  -5.17835838 S2:   0.75000000
+   State   53 Energy:  -5.17830712 S2:   0.75000000
+   State   54 Energy:  -5.17253536 S2:   0.75000000
+   State   55 Energy:  -5.17236447 S2:   3.75000000
+   State   56 Energy:  -5.17226176 S2:   3.75000000
+   State   57 Energy:  -5.17216694 S2:   0.75000000
+   State   58 Energy:  -5.17198025 S2:   0.75000000
+   State   59 Energy:  -5.17179251 S2:   0.75000000
+   State   60 Energy:  -5.16293760 S2:   0.75000000
+   State   61 Energy:  -5.16281354 S2:   0.75000000
+   State   62 Energy:  -5.15852787 S2:   0.75000000
+   State   63 Energy:  -5.15848861 S2:   0.75000000
+   State   64 Energy:  -5.15644183 S2:   0.75000000
+   State   65 Energy:  -5.15267057 S2:   0.75000000
+   State   66 Energy:  -5.15173560 S2:   0.75000000
+   State   67 Energy:  -5.15021866 S2:   0.75000000
+   State   68 Energy:  -5.14885745 S2:   0.75000000
+   State   69 Energy:  -5.14878946 S2:   0.75000000
+   State   70 Energy:  -5.14651692 S2:   3.75000000
+   State   71 Energy:  -5.14238768 S2:   0.75000000
+   State   72 Energy:  -5.13732699 S2:   0.75000000
+   State   73 Energy:  -5.13730521 S2:   0.75000000
+   State   74 Energy:  -5.13493806 S2:   0.75000000
+   State   75 Energy:  -5.13170884 S2:   0.75000000
+   State   76 Energy:  -5.12174790 S2:   0.75000000
+   State   77 Energy:  -5.11927795 S2:   0.75000000
+   State   78 Energy:  -5.11917499 S2:   0.75000000
+   State   79 Energy:  -5.08837089 S2:   0.75000000
+   State   80 Energy:  -5.08835068 S2:   0.75000000
+   State   81 Energy:  -5.08647053 S2:   0.75000000
+   State   82 Energy:  -5.08290352 S2:   0.75000000
+   State   83 Energy:  -5.07868815 S2:   0.75000000
+   State   84 Energy:  -5.06519298 S2:   0.75000000
+   State   85 Energy:  -5.06018375 S2:   0.75000000
+   State   86 Energy:  -5.06015961 S2:   0.75000000
+   State   87 Energy:  -5.05535537 S2:   0.75000000
+   State   88 Energy:  -5.04965013 S2:   0.75000000
+   State   89 Energy:  -5.04804218 S2:   0.75000000
+   State   90 Energy:  -5.04800424 S2:   0.75000000
+   State   91 Energy:  -5.04588127 S2:   0.75000000
+   State   92 Energy:  -5.03861502 S2:   0.75000000
+   State   93 Energy:  -4.99432332 S2:   0.75000000
+   State   94 Energy:  -4.99416724 S2:   0.75000000
+   State   95 Energy:  -4.97790520 S2:   0.75000000
+   State   96 Energy:  -4.94155403 S2:   0.75000000
+   State   97 Energy:  -4.93953049 S2:   0.75000000
+   State   98 Energy:  -4.92410615 S2:   0.75000000
+   State   99 Energy:  -4.92371608 S2:   0.75000000
+   State  100 Energy:  -4.92353176 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 0  Dimension: 5        
+   State    1 Energy:  -2.59519117 S2:   0.75000000
+   State    2 Energy:  -2.56620800 S2:   0.75000000
+   State    3 Energy:  -2.56608205 S2:   0.75000000
+   State    4 Energy:  -2.46409879 S2:   0.75000000
+   State    5 Energy:  -2.34947811 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 0  Dimension: 1        
+   State    1 Energy:   0.00000000 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 4  Dimension: 50       
+   State    1 Energy:  -4.16146606 S2:   6.00000000
+   State    2 Energy:  -4.15964730 S2:   6.00000000
+   State    3 Energy:  -4.15423804 S2:   6.00000000
+   State    4 Energy:  -4.15391919 S2:   6.00000000
+   State    5 Energy:  -4.14219827 S2:   6.00000000
+   State    6 Energy:  -4.07501569 S2:   2.00000000
+   State    7 Energy:  -4.07414761 S2:   2.00000000
+   State    8 Energy:  -4.07391220 S2:   2.00000000
+   State    9 Energy:  -4.07308989 S2:   2.00000000
+   State   10 Energy:  -4.07075642 S2:   2.00000000
+   State   11 Energy:  -4.07069900 S2:   2.00000000
+   State   12 Energy:  -4.06955967 S2:   2.00000000
+   State   13 Energy:  -4.06849643 S2:   2.00000000
+   State   14 Energy:  -4.06845643 S2:   2.00000000
+   State   15 Energy:  -4.06422203 S2:   2.00000000
+   State   16 Energy:  -4.06364764 S2:   2.00000000
+   State   17 Energy:  -4.05844933 S2:   2.00000000
+   State   18 Energy:  -4.05598297 S2:   2.00000000
+   State   19 Energy:  -4.05580009 S2:   2.00000000
+   State   20 Energy:  -4.05505573 S2:   2.00000000
+   State   21 Energy:  -4.05399456 S2:   2.00000000
+   State   22 Energy:  -4.05389879 S2:   2.00000000
+   State   23 Energy:  -4.04942174 S2:   2.00000000
+   State   24 Energy:  -4.04752600 S2:   2.00000000
+   State   25 Energy:  -4.04749114 S2:   2.00000000
+   State   26 Energy:  -4.04652729 S2:   2.00000000
+   State   27 Energy:  -4.04454193 S2:   2.00000000
+   State   28 Energy:  -4.04398622 S2:   2.00000000
+   State   29 Energy:  -4.04394827 S2:   2.00000000
+   State   30 Energy:  -4.04365658 S2:   2.00000000
+   State   31 Energy:  -4.04051156 S2:   2.00000000
+   State   32 Energy:  -4.03627573 S2:   2.00000000
+   State   33 Energy:  -4.03618874 S2:   2.00000000
+   State   34 Energy:  -4.03607328 S2:   2.00000000
+   State   35 Energy:  -4.03250171 S2:   2.00000000
+   State   36 Energy:  -4.01311820 S2:   2.00000000
+   State   37 Energy:  -4.01300487 S2:   2.00000000
+   State   38 Energy:  -4.00864372 S2:   2.00000000
+   State   39 Energy:  -4.00577276 S2:   2.00000000
+   State   40 Energy:  -4.00419332 S2:   2.00000000
+   State   41 Energy:  -3.93401140 S2:   2.00000000
+   State   42 Energy:  -3.92144029 S2:   2.00000000
+   State   43 Energy:  -3.92135430 S2:   2.00000000
+   State   44 Energy:  -3.91553471 S2:   2.00000000
+   State   45 Energy:  -3.91195486 S2:   2.00000000
+   State   46 Energy:  -3.91128400 S2:   2.00000000
+   State   47 Energy:  -3.91112725 S2:   2.00000000
+   State   48 Energy:  -3.90407169 S2:   2.00000000
+   State   49 Energy:  -3.90160881 S2:   2.00000000
+   State   50 Energy:  -3.90140614 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 1  Dimension: 25       
+   State    1 Energy:  -4.43335836 S2:   2.00000000
+   State    2 Energy:  -4.43325839 S2:   2.00000000
+   State    3 Energy:  -4.41200246 S2:   2.00000000
+   State    4 Energy:  -4.37713976 S2:   0.00000000
+   State    5 Energy:  -4.36640585 S2:  -0.00000000
+   State    6 Energy:  -4.36633304 S2:   0.00000000
+   State    7 Energy:  -4.34143069 S2:   0.00000000
+   State    8 Energy:  -4.34065255 S2:  -0.00000000
+   State    9 Energy:  -4.32612142 S2:   2.00000000
+   State   10 Energy:  -4.32601100 S2:   2.00000000
+   State   11 Energy:  -4.29787142 S2:   2.00000000
+   State   12 Energy:  -4.27367054 S2:  -0.00000000
+   State   13 Energy:  -4.27087754 S2:   0.00000000
+   State   14 Energy:  -4.26610859 S2:   2.00000000
+   State   15 Energy:  -4.25930713 S2:  -0.00000000
+   State   16 Energy:  -4.25922513 S2:  -0.00000000
+   State   17 Energy:  -4.19743344 S2:  -0.00000000
+   State   18 Energy:  -4.19224819 S2:   2.00000000
+   State   19 Energy:  -4.19216042 S2:   2.00000000
+   State   20 Energy:  -4.15757176 S2:   2.00000000
+   State   21 Energy:  -4.15675504 S2:   0.00000000
+   State   22 Energy:  -4.15667318 S2:  -0.00000000
+   State   23 Energy:  -4.14037072 S2:  -0.00000000
+   State   24 Energy:  -4.09036613 S2:   0.00000000
+   State   25 Energy:  -3.93995081 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 1  Dimension: 5        
+   State    1 Energy:  -2.59519117 S2:   0.75000000
+   State    2 Energy:  -2.56620800 S2:   0.75000000
+   State    3 Energy:  -2.56608205 S2:   0.75000000
+   State    4 Energy:  -2.46409879 S2:   0.75000000
+   State    5 Energy:  -2.34947811 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 0  Dimension: 10       
+   State    1 Energy:  -5.53629179 S2:   3.75000000
+   State    2 Energy:  -5.45335233 S2:   3.75000000
+   State    3 Energy:  -5.44377209 S2:   3.75000000
+   State    4 Energy:  -5.44369254 S2:   3.75000000
+   State    5 Energy:  -5.38045819 S2:   3.75000000
+   State    6 Energy:  -5.38037371 S2:   3.75000000
+   State    7 Energy:  -5.34909736 S2:   3.75000000
+   State    8 Energy:  -5.29277710 S2:   3.75000000
+   State    9 Energy:  -5.29214418 S2:   3.75000000
+   State   10 Energy:  -5.29182805 S2:   3.75000000
+IDX002:DIM0256:006|007|008|009|
+ Number of embedded electrons a,b: 3.000000 3.000000
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 4   #α = 3  #β = 2  Dimension: 24       
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 4   #α = 2  #β = 3  Dimension: 24       
+ FCIAnsatz:: #Orbs = 4   #α = 1  #β = 4  Dimension: 4        
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 1  Dimension: 4        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 4   #α = 3  #β = 3  Dimension: 16       
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 4   #α = 2  #β = 4  Dimension: 6        
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 2  Dimension: 6        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 3  Dimension: 4        
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 4   #α = 3  #β = 4  Dimension: 4        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 4  Dimension: 1        
+ Compute higher and lower Ms components
+
+
+ FCIAnsatz:: #Orbs = 4   #α = 3  #β = 2  Dimension: 24       
+   State    1 Energy: -27.78635034 S2:   3.75000000
+   State    2 Energy: -27.75069433 S2:   0.75000000
+   State    3 Energy: -27.75057197 S2:   0.75000000
+   State    4 Energy: -27.69398139 S2:   0.75000000
+   State    5 Energy: -27.69375837 S2:   0.75000000
+   State    6 Energy: -27.69333096 S2:   0.75000000
+   State    7 Energy: -27.63608872 S2:   0.75000000
+   State    8 Energy: -27.57597439 S2:   0.75000000
+   State    9 Energy: -27.57586893 S2:   0.75000000
+   State   10 Energy: -24.14399389 S2:   3.75000000
+   State   11 Energy: -24.07158089 S2:   3.75000000
+   State   12 Energy: -24.07146786 S2:   3.75000000
+   State   13 Energy: -23.94998050 S2:   0.75000000
+   State   14 Energy: -23.94955271 S2:   0.75000000
+   State   15 Energy: -23.90172133 S2:   0.75000000
+   State   16 Energy: -23.87551727 S2:   0.75000000
+   State   17 Energy: -23.87536412 S2:   0.75000000
+   State   18 Energy: -23.75203046 S2:   0.75000000
+   State   19 Energy: -23.74735801 S2:   0.75000000
+   State   20 Energy: -23.66777088 S2:   0.75000000
+   State   21 Energy: -23.66760673 S2:   0.75000000
+   State   22 Energy: -20.03310590 S2:   0.75000000
+   State   23 Energy: -20.03294957 S2:   0.75000000
+   State   24 Energy: -19.96484417 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 2  #β = 4  Dimension: 6        
+   State    1 Energy: -29.93868015 S2:   2.00000000
+   State    2 Energy: -29.84303472 S2:   2.00000000
+   State    3 Energy: -29.84300330 S2:   2.00000000
+   State    4 Energy: -26.21650978 S2:   2.00000000
+   State    5 Energy: -26.21648014 S2:   2.00000000
+   State    6 Energy: -26.12965734 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 2  Dimension: 6        
+   State    1 Energy: -29.93868015 S2:   2.00000000
+   State    2 Energy: -29.84303472 S2:   2.00000000
+   State    3 Energy: -29.84300330 S2:   2.00000000
+   State    4 Energy: -26.21650978 S2:   2.00000000
+   State    5 Energy: -26.21648014 S2:   2.00000000
+   State    6 Energy: -26.12965734 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 3  #β = 3  Dimension: 16       
+   State    1 Energy: -29.93868015 S2:   2.00000000
+   State    2 Energy: -29.87687718 S2:  -0.00000000
+   State    3 Energy: -29.87644928 S2:  -0.00000000
+   State    4 Energy: -29.84303472 S2:   2.00000000
+   State    5 Energy: -29.84300330 S2:   2.00000000
+   State    6 Energy: -29.82848778 S2:  -0.00000000
+   State    7 Energy: -29.78145781 S2:   0.00000000
+   State    8 Energy: -29.78142443 S2:   0.00000000
+   State    9 Energy: -29.64460398 S2:   0.00000000
+   State   10 Energy: -26.21650978 S2:   2.00000000
+   State   11 Energy: -26.21648014 S2:   2.00000000
+   State   12 Energy: -26.12965734 S2:   2.00000000
+   State   13 Energy: -25.95210582 S2:   0.00000000
+   State   14 Energy: -25.95203275 S2:  -0.00000000
+   State   15 Energy: -25.85574597 S2:  -0.00000000
+   State   16 Energy: -22.23679268 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 1  Dimension: 4        
+   State    1 Energy: -27.78635034 S2:   3.75000000
+   State    2 Energy: -24.14399389 S2:   3.75000000
+   State    3 Energy: -24.07158089 S2:   3.75000000
+   State    4 Energy: -24.07146786 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 3  Dimension: 4        
+   State    1 Energy: -31.44001335 S2:   0.75000000
+   State    2 Energy: -31.43989734 S2:   0.75000000
+   State    3 Energy: -31.32991266 S2:   0.75000000
+   State    4 Energy: -27.71922997 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 1  #β = 4  Dimension: 4        
+   State    1 Energy: -27.78635034 S2:   3.75000000
+   State    2 Energy: -24.14399389 S2:   3.75000000
+   State    3 Energy: -24.07158089 S2:   3.75000000
+   State    4 Energy: -24.07146786 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 3  #β = 4  Dimension: 4        
+   State    1 Energy: -31.44001335 S2:   0.75000000
+   State    2 Energy: -31.43989734 S2:   0.75000000
+   State    3 Energy: -31.32991266 S2:   0.75000000
+   State    4 Energy: -27.71922997 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 2  #β = 3  Dimension: 24       
+   State    1 Energy: -27.78635034 S2:   3.75000000
+   State    2 Energy: -27.75069433 S2:   0.75000000
+   State    3 Energy: -27.75057197 S2:   0.75000000
+   State    4 Energy: -27.69398139 S2:   0.75000000
+   State    5 Energy: -27.69375837 S2:   0.75000000
+   State    6 Energy: -27.69333096 S2:   0.75000000
+   State    7 Energy: -27.63608872 S2:   0.75000000
+   State    8 Energy: -27.57597439 S2:   0.75000000
+   State    9 Energy: -27.57586893 S2:   0.75000000
+   State   10 Energy: -24.14399389 S2:   3.75000000
+   State   11 Energy: -24.07158089 S2:   3.75000000
+   State   12 Energy: -24.07146786 S2:   3.75000000
+   State   13 Energy: -23.94998050 S2:   0.75000000
+   State   14 Energy: -23.94955271 S2:   0.75000000
+   State   15 Energy: -23.90172133 S2:   0.75000000
+   State   16 Energy: -23.87551727 S2:   0.75000000
+   State   17 Energy: -23.87536412 S2:   0.75000000
+   State   18 Energy: -23.75203046 S2:   0.75000000
+   State   19 Energy: -23.74735801 S2:   0.75000000
+   State   20 Energy: -23.66777088 S2:   0.75000000
+   State   21 Energy: -23.66760673 S2:   0.75000000
+   State   22 Energy: -20.03310590 S2:   0.75000000
+   State   23 Energy: -20.03294957 S2:   0.75000000
+   State   24 Energy: -19.96484417 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 4   #α = 4  #β = 4  Dimension: 1        
+   State    1 Energy: -32.37145552 S2:   0.00000000
+IDX003:DIM1024:010|011|012|013|014|
+ Number of embedded electrons a,b: 5.500000 5.500000
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 0  Dimension: 1        
+ Compute higher and lower Ms components
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 0  Dimension: 5        
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 1  Dimension: 5        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 1  Dimension: 25       
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 2  Dimension: 10       
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 0  Dimension: 10       
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 1  Dimension: 50       
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 2  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 3  Dimension: 10       
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 0  Dimension: 10       
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 2  Dimension: 100      
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 3  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 4  Dimension: 5        
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 1  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 0  Dimension: 5        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 2  Dimension: 100      
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 3  Dimension: 100      
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 4  Dimension: 25       
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 5  Dimension: 1        
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 1  Dimension: 25       
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 0  Dimension: 1        
+ Preparing to compute : 
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 3  Dimension: 100      
+ Compute higher and lower Ms components
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 4  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 5  Dimension: 5        
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 2  Dimension: 50       
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 1  Dimension: 5        
+
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 2  Dimension: 50       
+   State    1 Energy:  -5.53635462 S2:   3.75000000
+   State    2 Energy:  -5.45342146 S2:   3.75000000
+   State    3 Energy:  -5.44806351 S2:   0.75000000
+   State    4 Energy:  -5.44785982 S2:   0.75000000
+   State    5 Energy:  -5.44784192 S2:   0.75000000
+   State    6 Energy:  -5.44562254 S2:   0.75000000
+   State    7 Energy:  -5.44382939 S2:   3.75000000
+   State    8 Energy:  -5.44378676 S2:   3.75000000
+   State    9 Energy:  -5.44270799 S2:   0.75000000
+   State   10 Energy:  -5.40085541 S2:   0.75000000
+   State   11 Energy:  -5.40062787 S2:   0.75000000
+   State   12 Energy:  -5.40058883 S2:   0.75000000
+   State   13 Energy:  -5.38051542 S2:   3.75000000
+   State   14 Energy:  -5.38044497 S2:   3.75000000
+   State   15 Energy:  -5.37371442 S2:   0.75000000
+   State   16 Energy:  -5.37367938 S2:   0.75000000
+   State   17 Energy:  -5.36685311 S2:   0.75000000
+   State   18 Energy:  -5.36685242 S2:   0.75000000
+   State   19 Energy:  -5.35907357 S2:   0.75000000
+   State   20 Energy:  -5.34916257 S2:   3.75000000
+   State   21 Energy:  -5.34640382 S2:   0.75000000
+   State   22 Energy:  -5.33539609 S2:   0.75000000
+   State   23 Energy:  -5.33535951 S2:   0.75000000
+   State   24 Energy:  -5.32497689 S2:   0.75000000
+   State   25 Energy:  -5.31218344 S2:   0.75000000
+   State   26 Energy:  -5.31215033 S2:   0.75000000
+   State   27 Energy:  -5.29284217 S2:   3.75000000
+   State   28 Energy:  -5.29219795 S2:   3.75000000
+   State   29 Energy:  -5.29191340 S2:   3.75000000
+   State   30 Energy:  -5.28089204 S2:   0.75000000
+   State   31 Energy:  -5.28079942 S2:   0.75000000
+   State   32 Energy:  -5.27311525 S2:   0.75000000
+   State   33 Energy:  -5.26653141 S2:   0.75000000
+   State   34 Energy:  -5.25957239 S2:   0.75000000
+   State   35 Energy:  -5.25953471 S2:   0.75000000
+   State   36 Energy:  -5.25174829 S2:   0.75000000
+   State   37 Energy:  -5.23036189 S2:   0.75000000
+   State   38 Energy:  -5.22721930 S2:   0.75000000
+   State   39 Energy:  -5.22713005 S2:   0.75000000
+   State   40 Energy:  -5.21876853 S2:   0.75000000
+   State   41 Energy:  -5.21254158 S2:   0.75000000
+   State   42 Energy:  -5.20150051 S2:   0.75000000
+   State   43 Energy:  -5.19557659 S2:   0.75000000
+   State   44 Energy:  -5.19110263 S2:   0.75000000
+   State   45 Energy:  -5.19099903 S2:   0.75000000
+   State   46 Energy:  -5.12937575 S2:   0.75000000
+   State   47 Energy:  -5.10025422 S2:   0.75000000
+   State   48 Energy:  -5.05986883 S2:   0.75000000
+   State   49 Energy:  -5.04319225 S2:   0.75000000
+   State   50 Energy:  -5.04306647 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 1  Dimension: 50       
+   State    1 Energy:  -5.83126073 S2:   6.00000000
+   State    2 Energy:  -5.77558704 S2:   2.00000000
+   State    3 Energy:  -5.77475007 S2:   6.00000000
+   State    4 Energy:  -5.76383856 S2:   2.00000000
+   State    5 Energy:  -5.76368907 S2:   2.00000000
+   State    6 Energy:  -5.73489836 S2:   2.00000000
+   State    7 Energy:  -5.73093922 S2:   6.00000000
+   State    8 Energy:  -5.73080423 S2:   6.00000000
+   State    9 Energy:  -5.71745850 S2:   2.00000000
+   State   10 Energy:  -5.71736522 S2:   2.00000000
+   State   11 Energy:  -5.71657779 S2:   2.00000000
+   State   12 Energy:  -5.71535752 S2:   2.00000000
+   State   13 Energy:  -5.71436333 S2:   6.00000000
+   State   14 Energy:  -5.70662784 S2:   2.00000000
+   State   15 Energy:  -5.69447855 S2:   2.00000000
+   State   16 Energy:  -5.68934054 S2:   2.00000000
+   State   17 Energy:  -5.68925253 S2:   2.00000000
+   State   18 Energy:  -5.67871834 S2:   2.00000000
+   State   19 Energy:  -5.66525421 S2:   2.00000000
+   State   20 Energy:  -5.65881404 S2:   2.00000000
+   State   21 Energy:  -5.65879900 S2:   2.00000000
+   State   22 Energy:  -5.65713413 S2:   2.00000000
+   State   23 Energy:  -5.65682010 S2:   2.00000000
+   State   24 Energy:  -5.64314299 S2:   2.00000000
+   State   25 Energy:  -5.64308504 S2:   2.00000000
+   State   26 Energy:  -5.63994505 S2:   2.00000000
+   State   27 Energy:  -5.63552262 S2:   2.00000000
+   State   28 Energy:  -5.63540151 S2:   2.00000000
+   State   29 Energy:  -5.62418737 S2:   2.00000000
+   State   30 Energy:  -5.61537320 S2:   2.00000000
+   State   31 Energy:  -5.61534504 S2:   2.00000000
+   State   32 Energy:  -5.61170063 S2:   2.00000000
+   State   33 Energy:  -5.60933344 S2:   2.00000000
+   State   34 Energy:  -5.60492199 S2:   2.00000000
+   State   35 Energy:  -5.60481804 S2:   2.00000000
+   State   36 Energy:  -5.60001365 S2:   2.00000000
+   State   37 Energy:  -5.59240123 S2:   2.00000000
+   State   38 Energy:  -5.58313971 S2:   2.00000000
+   State   39 Energy:  -5.58308741 S2:   2.00000000
+   State   40 Energy:  -5.57320440 S2:   2.00000000
+   State   41 Energy:  -5.51370778 S2:   2.00000000
+   State   42 Energy:  -5.51061891 S2:   2.00000000
+   State   43 Energy:  -5.51060808 S2:   2.00000000
+   State   44 Energy:  -5.49959304 S2:   2.00000000
+   State   45 Energy:  -5.49955145 S2:   2.00000000
+   State   46 Energy:  -5.49431853 S2:   2.00000000
+   State   47 Energy:  -5.49120597 S2:   2.00000000
+   State   48 Energy:  -5.45142033 S2:   2.00000000
+   State   49 Energy:  -5.45123825 S2:   2.00000000
+   State   50 Energy:  -5.43129199 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 2  Dimension: 10       
+   State    1 Energy:  -4.43339476 S2:   2.00000000
+   State    2 Energy:  -4.43330871 S2:   2.00000000
+   State    3 Energy:  -4.41203652 S2:   2.00000000
+   State    4 Energy:  -4.32615865 S2:   2.00000000
+   State    5 Energy:  -4.32608619 S2:   2.00000000
+   State    6 Energy:  -4.29793685 S2:   2.00000000
+   State    7 Energy:  -4.26615118 S2:   2.00000000
+   State    8 Energy:  -4.19226010 S2:   2.00000000
+   State    9 Energy:  -4.19221194 S2:   2.00000000
+   State   10 Energy:  -4.15762912 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 3  Dimension: 50       
+   State    1 Energy:  -5.83126073 S2:   6.00000000
+   State    2 Energy:  -5.77558704 S2:   2.00000000
+   State    3 Energy:  -5.77475007 S2:   6.00000000
+   State    4 Energy:  -5.76383856 S2:   2.00000000
+   State    5 Energy:  -5.76368907 S2:   2.00000000
+   State    6 Energy:  -5.73489836 S2:   2.00000000
+   State    7 Energy:  -5.73093922 S2:   6.00000000
+   State    8 Energy:  -5.73080423 S2:   6.00000000
+   State    9 Energy:  -5.71745850 S2:   2.00000000
+   State   10 Energy:  -5.71736522 S2:   2.00000000
+   State   11 Energy:  -5.71657779 S2:   2.00000000
+   State   12 Energy:  -5.71535752 S2:   2.00000000
+   State   13 Energy:  -5.71436333 S2:   6.00000000
+   State   14 Energy:  -5.70662784 S2:   2.00000000
+   State   15 Energy:  -5.69447855 S2:   2.00000000
+   State   16 Energy:  -5.68934054 S2:   2.00000000
+   State   17 Energy:  -5.68925253 S2:   2.00000000
+   State   18 Energy:  -5.67871834 S2:   2.00000000
+   State   19 Energy:  -5.66525421 S2:   2.00000000
+   State   20 Energy:  -5.65881404 S2:   2.00000000
+   State   21 Energy:  -5.65879900 S2:   2.00000000
+   State   22 Energy:  -5.65713413 S2:   2.00000000
+   State   23 Energy:  -5.65682010 S2:   2.00000000
+   State   24 Energy:  -5.64314299 S2:   2.00000000
+   State   25 Energy:  -5.64308504 S2:   2.00000000
+   State   26 Energy:  -5.63994505 S2:   2.00000000
+   State   27 Energy:  -5.63552262 S2:   2.00000000
+   State   28 Energy:  -5.63540151 S2:   2.00000000
+   State   29 Energy:  -5.62418737 S2:   2.00000000
+   State   30 Energy:  -5.61537320 S2:   2.00000000
+   State   31 Energy:  -5.61534504 S2:   2.00000000
+   State   32 Energy:  -5.61170063 S2:   2.00000000
+   State   33 Energy:  -5.60933344 S2:   2.00000000
+   State   34 Energy:  -5.60492199 S2:   2.00000000
+   State   35 Energy:  -5.60481804 S2:   2.00000000
+   State   36 Energy:  -5.60001365 S2:   2.00000000
+   State   37 Energy:  -5.59240123 S2:   2.00000000
+   State   38 Energy:  -5.58313971 S2:   2.00000000
+   State   39 Energy:  -5.58308741 S2:   2.00000000
+   State   40 Energy:  -5.57320440 S2:   2.00000000
+   State   41 Energy:  -5.51370778 S2:   2.00000000
+   State   42 Energy:  -5.51061891 S2:   2.00000000
+   State   43 Energy:  -5.51060808 S2:   2.00000000
+   State   44 Energy:  -5.49959304 S2:   2.00000000
+   State   45 Energy:  -5.49955145 S2:   2.00000000
+   State   46 Energy:  -5.49431853 S2:   2.00000000
+   State   47 Energy:  -5.49120597 S2:   2.00000000
+   State   48 Energy:  -5.45142033 S2:   2.00000000
+   State   49 Energy:  -5.45123825 S2:   2.00000000
+   State   50 Energy:  -5.43129199 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 3  Dimension: 10       
+   State    1 Energy:  -5.53635462 S2:   3.75000000
+   State    2 Energy:  -5.45342146 S2:   3.75000000
+   State    3 Energy:  -5.44382939 S2:   3.75000000
+   State    4 Energy:  -5.44378676 S2:   3.75000000
+   State    5 Energy:  -5.38051542 S2:   3.75000000
+   State    6 Energy:  -5.38044497 S2:   3.75000000
+   State    7 Energy:  -5.34916257 S2:   3.75000000
+   State    8 Energy:  -5.29284217 S2:   3.75000000
+   State    9 Energy:  -5.29219795 S2:   3.75000000
+   State   10 Energy:  -5.29191340 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 4  Dimension: 25       
+   State    1 Energy:  -5.41364734 S2:   8.75000000
+   State    2 Energy:  -5.31829976 S2:   3.75000000
+   State    3 Energy:  -5.31806738 S2:   3.75000000
+   State    4 Energy:  -5.30378926 S2:   3.75000000
+   State    5 Energy:  -5.30054667 S2:   3.75000000
+   State    6 Energy:  -5.28799790 S2:   3.75000000
+   State    7 Energy:  -5.28572618 S2:   3.75000000
+   State    8 Energy:  -5.28262765 S2:   3.75000000
+   State    9 Energy:  -5.28252644 S2:   3.75000000
+   State   10 Energy:  -5.28212417 S2:   3.75000000
+   State   11 Energy:  -5.25993305 S2:   3.75000000
+   State   12 Energy:  -5.25571766 S2:   3.75000000
+   State   13 Energy:  -5.25378350 S2:   3.75000000
+   State   14 Energy:  -5.25369380 S2:   3.75000000
+   State   15 Energy:  -5.25176113 S2:   3.75000000
+   State   16 Energy:  -5.24041774 S2:   3.75000000
+   State   17 Energy:  -5.22776159 S2:   3.75000000
+   State   18 Energy:  -5.22771582 S2:   3.75000000
+   State   19 Energy:  -5.18379527 S2:   3.75000000
+   State   20 Energy:  -5.18328955 S2:   3.75000000
+   State   21 Energy:  -5.18319413 S2:   3.75000000
+   State   22 Energy:  -5.17938640 S2:   3.75000000
+   State   23 Energy:  -5.17246680 S2:   3.75000000
+   State   24 Energy:  -5.17237889 S2:   3.75000000
+   State   25 Energy:  -5.14662260 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 4  Dimension: 5        
+   State    1 Energy:  -5.83126073 S2:   6.00000000
+   State    2 Energy:  -5.77475007 S2:   6.00000000
+   State    3 Energy:  -5.73093922 S2:   6.00000000
+   State    4 Energy:  -5.73080423 S2:   6.00000000
+   State    5 Energy:  -5.71436333 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 0  Dimension: 5        
+   State    1 Energy:  -5.83126073 S2:   6.00000000
+   State    2 Energy:  -5.77475007 S2:   6.00000000
+   State    3 Energy:  -5.73093922 S2:   6.00000000
+   State    4 Energy:  -5.73080423 S2:   6.00000000
+   State    5 Energy:  -5.71436333 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 2  Dimension: 100      
+   State    1 Energy:  -5.41364734 S2:   8.75000000
+   State    2 Energy:  -5.31829976 S2:   3.75000000
+   State    3 Energy:  -5.31806738 S2:   3.75000000
+   State    4 Energy:  -5.30378926 S2:   3.75000000
+   State    5 Energy:  -5.30054667 S2:   3.75000000
+   State    6 Energy:  -5.28799790 S2:   3.75000000
+   State    7 Energy:  -5.28572618 S2:   3.75000000
+   State    8 Energy:  -5.28262765 S2:   3.75000000
+   State    9 Energy:  -5.28252644 S2:   3.75000000
+   State   10 Energy:  -5.28212417 S2:   3.75000000
+   State   11 Energy:  -5.27414196 S2:   0.75000000
+   State   12 Energy:  -5.27393297 S2:   0.75000000
+   State   13 Energy:  -5.26933996 S2:   0.75000000
+   State   14 Energy:  -5.25993305 S2:   3.75000000
+   State   15 Energy:  -5.25571766 S2:   3.75000000
+   State   16 Energy:  -5.25513466 S2:   0.75000000
+   State   17 Energy:  -5.25495654 S2:   0.75000000
+   State   18 Energy:  -5.25378350 S2:   3.75000000
+   State   19 Energy:  -5.25369380 S2:   3.75000000
+   State   20 Energy:  -5.25176113 S2:   3.75000000
+   State   21 Energy:  -5.24986281 S2:   0.75000000
+   State   22 Energy:  -5.24567748 S2:   0.75000000
+   State   23 Energy:  -5.24552256 S2:   0.75000000
+   State   24 Energy:  -5.24467856 S2:   0.75000000
+   State   25 Energy:  -5.24041774 S2:   3.75000000
+   State   26 Energy:  -5.23813405 S2:   0.75000000
+   State   27 Energy:  -5.23415041 S2:   0.75000000
+   State   28 Energy:  -5.23189957 S2:   0.75000000
+   State   29 Energy:  -5.22793899 S2:   0.75000000
+   State   30 Energy:  -5.22776159 S2:   3.75000000
+   State   31 Energy:  -5.22771582 S2:   3.75000000
+   State   32 Energy:  -5.22176057 S2:   0.75000000
+   State   33 Energy:  -5.22160646 S2:   0.75000000
+   State   34 Energy:  -5.22116663 S2:   0.75000000
+   State   35 Energy:  -5.21609301 S2:   0.75000000
+   State   36 Energy:  -5.21224562 S2:   0.75000000
+   State   37 Energy:  -5.21019100 S2:   0.75000000
+   State   38 Energy:  -5.20960858 S2:   0.75000000
+   State   39 Energy:  -5.20119677 S2:   0.75000000
+   State   40 Energy:  -5.20109823 S2:   0.75000000
+   State   41 Energy:  -5.20060633 S2:   0.75000000
+   State   42 Energy:  -5.19730838 S2:   0.75000000
+   State   43 Energy:  -5.19713613 S2:   0.75000000
+   State   44 Energy:  -5.19383313 S2:   0.75000000
+   State   45 Energy:  -5.18679809 S2:   0.75000000
+   State   46 Energy:  -5.18379527 S2:   3.75000000
+   State   47 Energy:  -5.18328955 S2:   3.75000000
+   State   48 Energy:  -5.18319413 S2:   3.75000000
+   State   49 Energy:  -5.17938640 S2:   3.75000000
+   State   50 Energy:  -5.17922115 S2:   0.75000000
+   State   51 Energy:  -5.17857098 S2:   0.75000000
+   State   52 Energy:  -5.17846782 S2:   0.75000000
+   State   53 Energy:  -5.17842117 S2:   0.75000000
+   State   54 Energy:  -5.17263891 S2:   0.75000000
+   State   55 Energy:  -5.17246680 S2:   3.75000000
+   State   56 Energy:  -5.17237889 S2:   3.75000000
+   State   57 Energy:  -5.17227901 S2:   0.75000000
+   State   58 Energy:  -5.17209037 S2:   0.75000000
+   State   59 Energy:  -5.17189132 S2:   0.75000000
+   State   60 Energy:  -5.16305736 S2:   0.75000000
+   State   61 Energy:  -5.16292193 S2:   0.75000000
+   State   62 Energy:  -5.15863881 S2:   0.75000000
+   State   63 Energy:  -5.15859980 S2:   0.75000000
+   State   64 Energy:  -5.15654639 S2:   0.75000000
+   State   65 Energy:  -5.15278026 S2:   0.75000000
+   State   66 Energy:  -5.15184904 S2:   0.75000000
+   State   67 Energy:  -5.15032764 S2:   0.75000000
+   State   68 Energy:  -5.14897246 S2:   0.75000000
+   State   69 Energy:  -5.14889328 S2:   0.75000000
+   State   70 Energy:  -5.14662260 S2:   3.75000000
+   State   71 Energy:  -5.14249188 S2:   0.75000000
+   State   72 Energy:  -5.13743962 S2:   0.75000000
+   State   73 Energy:  -5.13740869 S2:   0.75000000
+   State   74 Energy:  -5.13504415 S2:   0.75000000
+   State   75 Energy:  -5.13181784 S2:   0.75000000
+   State   76 Energy:  -5.12185418 S2:   0.75000000
+   State   77 Energy:  -5.11938895 S2:   0.75000000
+   State   78 Energy:  -5.11927004 S2:   0.75000000
+   State   79 Energy:  -5.08847774 S2:   0.75000000
+   State   80 Energy:  -5.08845806 S2:   0.75000000
+   State   81 Energy:  -5.08658123 S2:   0.75000000
+   State   82 Energy:  -5.08301237 S2:   0.75000000
+   State   83 Energy:  -5.07879529 S2:   0.75000000
+   State   84 Energy:  -5.06530374 S2:   0.75000000
+   State   85 Energy:  -5.06028931 S2:   0.75000000
+   State   86 Energy:  -5.06027482 S2:   0.75000000
+   State   87 Energy:  -5.05546672 S2:   0.75000000
+   State   88 Energy:  -5.04975955 S2:   0.75000000
+   State   89 Energy:  -5.04814775 S2:   0.75000000
+   State   90 Energy:  -5.04811162 S2:   0.75000000
+   State   91 Energy:  -5.04598644 S2:   0.75000000
+   State   92 Energy:  -5.03872186 S2:   0.75000000
+   State   93 Energy:  -4.99442116 S2:   0.75000000
+   State   94 Energy:  -4.99428196 S2:   0.75000000
+   State   95 Energy:  -4.97801481 S2:   0.75000000
+   State   96 Energy:  -4.94166101 S2:   0.75000000
+   State   97 Energy:  -4.93964029 S2:   0.75000000
+   State   98 Energy:  -4.92421322 S2:   0.75000000
+   State   99 Energy:  -4.92382218 S2:   0.75000000
+   State  100 Energy:  -4.92364278 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 0  Dimension: 10       
+   State    1 Energy:  -4.43339476 S2:   2.00000000
+   State    2 Energy:  -4.43330871 S2:   2.00000000
+   State    3 Energy:  -4.41203652 S2:   2.00000000
+   State    4 Energy:  -4.32615865 S2:   2.00000000
+   State    5 Energy:  -4.32608619 S2:   2.00000000
+   State    6 Energy:  -4.29793685 S2:   2.00000000
+   State    7 Energy:  -4.26615118 S2:   2.00000000
+   State    8 Energy:  -4.19226010 S2:   2.00000000
+   State    9 Energy:  -4.19221194 S2:   2.00000000
+   State   10 Energy:  -4.15762912 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 3  Dimension: 100      
+   State    1 Energy:  -4.16160059 S2:   6.00000000
+   State    2 Energy:  -4.15976154 S2:   6.00000000
+   State    3 Energy:  -4.15438585 S2:   6.00000000
+   State    4 Energy:  -4.15403478 S2:   6.00000000
+   State    5 Energy:  -4.14233074 S2:   6.00000000
+   State    6 Energy:  -4.07514591 S2:   2.00000000
+   State    7 Energy:  -4.07429792 S2:   2.00000000
+   State    8 Energy:  -4.07402721 S2:   2.00000000
+   State    9 Energy:  -4.07322558 S2:   2.00000000
+   State   10 Energy:  -4.07089065 S2:   2.00000000
+   State   11 Energy:  -4.07081014 S2:   2.00000000
+   State   12 Energy:  -4.06967835 S2:   2.00000000
+   State   13 Energy:  -4.06863485 S2:   2.00000000
+   State   14 Energy:  -4.06858691 S2:   2.00000000
+   State   15 Energy:  -4.06435677 S2:   2.00000000
+   State   16 Energy:  -4.06377576 S2:   2.00000000
+   State   17 Energy:  -4.05857090 S2:   2.00000000
+   State   18 Energy:  -4.05613209 S2:   2.00000000
+   State   19 Energy:  -4.05591490 S2:   2.00000000
+   State   20 Energy:  -4.05518488 S2:   2.00000000
+   State   21 Energy:  -4.05413450 S2:   2.00000000
+   State   22 Energy:  -4.05401855 S2:   2.00000000
+   State   23 Energy:  -4.04954241 S2:   2.00000000
+   State   24 Energy:  -4.04765750 S2:   2.00000000
+   State   25 Energy:  -4.04762179 S2:   2.00000000
+   State   26 Energy:  -4.04666169 S2:   2.00000000
+   State   27 Energy:  -4.04466919 S2:   2.00000000
+   State   28 Energy:  -4.04411596 S2:   2.00000000
+   State   29 Energy:  -4.04407503 S2:   2.00000000
+   State   30 Energy:  -4.04378573 S2:   2.00000000
+   State   31 Energy:  -4.04064222 S2:   2.00000000
+   State   32 Energy:  -4.03640144 S2:   2.00000000
+   State   33 Energy:  -4.03631499 S2:   2.00000000
+   State   34 Energy:  -4.03619194 S2:   2.00000000
+   State   35 Energy:  -4.03262066 S2:   2.00000000
+   State   36 Energy:  -4.03230571 S2:   0.00000000
+   State   37 Energy:  -4.03170385 S2:   0.00000000
+   State   38 Energy:  -4.03088297 S2:   0.00000000
+   State   39 Energy:  -4.03076207 S2:  -0.00000000
+   State   40 Energy:  -4.02992298 S2:  -0.00000000
+   State   41 Energy:  -4.02765598 S2:  -0.00000000
+   State   42 Energy:  -4.02748020 S2:  -0.00000000
+   State   43 Energy:  -4.02695898 S2:   0.00000000
+   State   44 Energy:  -4.02391793 S2:  -0.00000000
+   State   45 Energy:  -4.02372952 S2:   0.00000000
+   State   46 Energy:  -4.02355265 S2:  -0.00000000
+   State   47 Energy:  -4.01980257 S2:  -0.00000000
+   State   48 Energy:  -4.01936889 S2:  -0.00000000
+   State   49 Energy:  -4.01340145 S2:  -0.00000000
+   State   50 Energy:  -4.01325708 S2:   2.00000000
+   State   51 Energy:  -4.01312384 S2:   2.00000000
+   State   52 Energy:  -4.01212143 S2:  -0.00000000
+   State   53 Energy:  -4.01197842 S2:  -0.00000000
+   State   54 Energy:  -4.01066922 S2:   0.00000000
+   State   55 Energy:  -4.00936553 S2:  -0.00000000
+   State   56 Energy:  -4.00877990 S2:   2.00000000
+   State   57 Energy:  -4.00636880 S2:  -0.00000000
+   State   58 Energy:  -4.00590062 S2:   2.00000000
+   State   59 Energy:  -4.00449952 S2:  -0.00000000
+   State   60 Energy:  -4.00432301 S2:   2.00000000
+   State   61 Energy:  -4.00409812 S2:   0.00000000
+   State   62 Energy:  -4.00393675 S2:   0.00000000
+   State   63 Energy:  -3.99127542 S2:   0.00000000
+   State   64 Energy:  -3.98965510 S2:  -0.00000000
+   State   65 Energy:  -3.98951118 S2:   0.00000000
+   State   66 Energy:  -3.97664364 S2:  -0.00000000
+   State   67 Energy:  -3.96939532 S2:   0.00000000
+   State   68 Energy:  -3.96919138 S2:   0.00000000
+   State   69 Energy:  -3.96229030 S2:   0.00000000
+   State   70 Energy:  -3.95621633 S2:   0.00000000
+   State   71 Energy:  -3.95612601 S2:  -0.00000000
+   State   72 Energy:  -3.95186739 S2:  -0.00000000
+   State   73 Energy:  -3.95040971 S2:   0.00000000
+   State   74 Energy:  -3.94349114 S2:  -0.00000000
+   State   75 Energy:  -3.94348585 S2:  -0.00000000
+   State   76 Energy:  -3.93412977 S2:   2.00000000
+   State   77 Energy:  -3.92155851 S2:   2.00000000
+   State   78 Energy:  -3.92148078 S2:   2.00000000
+   State   79 Energy:  -3.91566194 S2:   2.00000000
+   State   80 Energy:  -3.91208690 S2:   2.00000000
+   State   81 Energy:  -3.91141492 S2:   2.00000000
+   State   82 Energy:  -3.91127133 S2:   2.00000000
+   State   83 Energy:  -3.90420311 S2:   2.00000000
+   State   84 Energy:  -3.90173317 S2:   2.00000000
+   State   85 Energy:  -3.90154098 S2:   2.00000000
+   State   86 Energy:  -3.89110700 S2:   0.00000000
+   State   87 Energy:  -3.88813445 S2:   0.00000000
+   State   88 Energy:  -3.88805654 S2:  -0.00000000
+   State   89 Energy:  -3.88368937 S2:   0.00000000
+   State   90 Energy:  -3.88180270 S2:   0.00000000
+   State   91 Energy:  -3.88164495 S2:   0.00000000
+   State   92 Energy:  -3.87924185 S2:   0.00000000
+   State   93 Energy:  -3.87747727 S2:  -0.00000000
+   State   94 Energy:  -3.87186327 S2:   0.00000000
+   State   95 Energy:  -3.80119291 S2:   0.00000000
+   State   96 Energy:  -3.79824508 S2:   0.00000000
+   State   97 Energy:  -3.78247810 S2:  -0.00000000
+   State   98 Energy:  -3.78016049 S2:  -0.00000000
+   State   99 Energy:  -3.78011183 S2:   0.00000000
+   State  100 Energy:  -3.67710488 S2:  -0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 1  Dimension: 25       
+   State    1 Energy:  -5.41364734 S2:   8.75000000
+   State    2 Energy:  -5.31829976 S2:   3.75000000
+   State    3 Energy:  -5.31806738 S2:   3.75000000
+   State    4 Energy:  -5.30378926 S2:   3.75000000
+   State    5 Energy:  -5.30054667 S2:   3.75000000
+   State    6 Energy:  -5.28799790 S2:   3.75000000
+   State    7 Energy:  -5.28572618 S2:   3.75000000
+   State    8 Energy:  -5.28262765 S2:   3.75000000
+   State    9 Energy:  -5.28252644 S2:   3.75000000
+   State   10 Energy:  -5.28212417 S2:   3.75000000
+   State   11 Energy:  -5.25993305 S2:   3.75000000
+   State   12 Energy:  -5.25571766 S2:   3.75000000
+   State   13 Energy:  -5.25378350 S2:   3.75000000
+   State   14 Energy:  -5.25369380 S2:   3.75000000
+   State   15 Energy:  -5.25176113 S2:   3.75000000
+   State   16 Energy:  -5.24041774 S2:   3.75000000
+   State   17 Energy:  -5.22776159 S2:   3.75000000
+   State   18 Energy:  -5.22771582 S2:   3.75000000
+   State   19 Energy:  -5.18379527 S2:   3.75000000
+   State   20 Energy:  -5.18328955 S2:   3.75000000
+   State   21 Energy:  -5.18319413 S2:   3.75000000
+   State   22 Energy:  -5.17938640 S2:   3.75000000
+   State   23 Energy:  -5.17246680 S2:   3.75000000
+   State   24 Energy:  -5.17237889 S2:   3.75000000
+   State   25 Energy:  -5.14662260 S2:   3.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 1  Dimension: 50       
+   State    1 Energy:  -5.53635462 S2:   3.75000000
+   State    2 Energy:  -5.45342146 S2:   3.75000000
+   State    3 Energy:  -5.44806351 S2:   0.75000000
+   State    4 Energy:  -5.44785982 S2:   0.75000000
+   State    5 Energy:  -5.44784192 S2:   0.75000000
+   State    6 Energy:  -5.44562254 S2:   0.75000000
+   State    7 Energy:  -5.44382939 S2:   3.75000000
+   State    8 Energy:  -5.44378676 S2:   3.75000000
+   State    9 Energy:  -5.44270799 S2:   0.75000000
+   State   10 Energy:  -5.40085541 S2:   0.75000000
+   State   11 Energy:  -5.40062787 S2:   0.75000000
+   State   12 Energy:  -5.40058883 S2:   0.75000000
+   State   13 Energy:  -5.38051542 S2:   3.75000000
+   State   14 Energy:  -5.38044497 S2:   3.75000000
+   State   15 Energy:  -5.37371442 S2:   0.75000000
+   State   16 Energy:  -5.37367938 S2:   0.75000000
+   State   17 Energy:  -5.36685311 S2:   0.75000000
+   State   18 Energy:  -5.36685242 S2:   0.75000000
+   State   19 Energy:  -5.35907357 S2:   0.75000000
+   State   20 Energy:  -5.34916257 S2:   3.75000000
+   State   21 Energy:  -5.34640382 S2:   0.75000000
+   State   22 Energy:  -5.33539609 S2:   0.75000000
+   State   23 Energy:  -5.33535951 S2:   0.75000000
+   State   24 Energy:  -5.32497689 S2:   0.75000000
+   State   25 Energy:  -5.31218344 S2:   0.75000000
+   State   26 Energy:  -5.31215033 S2:   0.75000000
+   State   27 Energy:  -5.29284217 S2:   3.75000000
+   State   28 Energy:  -5.29219795 S2:   3.75000000
+   State   29 Energy:  -5.29191340 S2:   3.75000000
+   State   30 Energy:  -5.28089204 S2:   0.75000000
+   State   31 Energy:  -5.28079942 S2:   0.75000000
+   State   32 Energy:  -5.27311525 S2:   0.75000000
+   State   33 Energy:  -5.26653141 S2:   0.75000000
+   State   34 Energy:  -5.25957239 S2:   0.75000000
+   State   35 Energy:  -5.25953471 S2:   0.75000000
+   State   36 Energy:  -5.25174829 S2:   0.75000000
+   State   37 Energy:  -5.23036189 S2:   0.75000000
+   State   38 Energy:  -5.22721930 S2:   0.75000000
+   State   39 Energy:  -5.22713005 S2:   0.75000000
+   State   40 Energy:  -5.21876853 S2:   0.75000000
+   State   41 Energy:  -5.21254158 S2:   0.75000000
+   State   42 Energy:  -5.20150051 S2:   0.75000000
+   State   43 Energy:  -5.19557659 S2:   0.75000000
+   State   44 Energy:  -5.19110263 S2:   0.75000000
+   State   45 Energy:  -5.19099903 S2:   0.75000000
+   State   46 Energy:  -5.12937575 S2:   0.75000000
+   State   47 Energy:  -5.10025422 S2:   0.75000000
+   State   48 Energy:  -5.05986883 S2:   0.75000000
+   State   49 Energy:  -5.04319225 S2:   0.75000000
+   State   50 Energy:  -5.04306647 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 5  Dimension: 5        
+   State    1 Energy:  -4.16160059 S2:   6.00000000
+   State    2 Energy:  -4.15976154 S2:   6.00000000
+   State    3 Energy:  -4.15438585 S2:   6.00000000
+   State    4 Energy:  -4.15403478 S2:   6.00000000
+   State    5 Energy:  -4.14233074 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 5  Dimension: 1        
+   State    1 Energy:  -5.41364734 S2:   8.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 0  Dimension: 1        
+   State    1 Energy:  -5.41364734 S2:   8.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 4  #β = 2  Dimension: 50       
+   State    1 Energy:  -4.16160059 S2:   6.00000000
+   State    2 Energy:  -4.15976154 S2:   6.00000000
+   State    3 Energy:  -4.15438585 S2:   6.00000000
+   State    4 Energy:  -4.15403478 S2:   6.00000000
+   State    5 Energy:  -4.14233074 S2:   6.00000000
+   State    6 Energy:  -4.07514591 S2:   2.00000000
+   State    7 Energy:  -4.07429792 S2:   2.00000000
+   State    8 Energy:  -4.07402721 S2:   2.00000000
+   State    9 Energy:  -4.07322558 S2:   2.00000000
+   State   10 Energy:  -4.07089065 S2:   2.00000000
+   State   11 Energy:  -4.07081014 S2:   2.00000000
+   State   12 Energy:  -4.06967835 S2:   2.00000000
+   State   13 Energy:  -4.06863485 S2:   2.00000000
+   State   14 Energy:  -4.06858691 S2:   2.00000000
+   State   15 Energy:  -4.06435677 S2:   2.00000000
+   State   16 Energy:  -4.06377576 S2:   2.00000000
+   State   17 Energy:  -4.05857090 S2:   2.00000000
+   State   18 Energy:  -4.05613209 S2:   2.00000000
+   State   19 Energy:  -4.05591490 S2:   2.00000000
+   State   20 Energy:  -4.05518488 S2:   2.00000000
+   State   21 Energy:  -4.05413450 S2:   2.00000000
+   State   22 Energy:  -4.05401855 S2:   2.00000000
+   State   23 Energy:  -4.04954241 S2:   2.00000000
+   State   24 Energy:  -4.04765750 S2:   2.00000000
+   State   25 Energy:  -4.04762179 S2:   2.00000000
+   State   26 Energy:  -4.04666169 S2:   2.00000000
+   State   27 Energy:  -4.04466919 S2:   2.00000000
+   State   28 Energy:  -4.04411596 S2:   2.00000000
+   State   29 Energy:  -4.04407503 S2:   2.00000000
+   State   30 Energy:  -4.04378573 S2:   2.00000000
+   State   31 Energy:  -4.04064222 S2:   2.00000000
+   State   32 Energy:  -4.03640144 S2:   2.00000000
+   State   33 Energy:  -4.03631499 S2:   2.00000000
+   State   34 Energy:  -4.03619194 S2:   2.00000000
+   State   35 Energy:  -4.03262066 S2:   2.00000000
+   State   36 Energy:  -4.01325708 S2:   2.00000000
+   State   37 Energy:  -4.01312384 S2:   2.00000000
+   State   38 Energy:  -4.00877990 S2:   2.00000000
+   State   39 Energy:  -4.00590062 S2:   2.00000000
+   State   40 Energy:  -4.00432301 S2:   2.00000000
+   State   41 Energy:  -3.93412977 S2:   2.00000000
+   State   42 Energy:  -3.92155851 S2:   2.00000000
+   State   43 Energy:  -3.92148078 S2:   2.00000000
+   State   44 Energy:  -3.91566194 S2:   2.00000000
+   State   45 Energy:  -3.91208690 S2:   2.00000000
+   State   46 Energy:  -3.91141492 S2:   2.00000000
+   State   47 Energy:  -3.91127133 S2:   2.00000000
+   State   48 Energy:  -3.90420311 S2:   2.00000000
+   State   49 Energy:  -3.90173317 S2:   2.00000000
+   State   50 Energy:  -3.90154098 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 5  #β = 1  Dimension: 5        
+   State    1 Energy:  -4.16160059 S2:   6.00000000
+   State    2 Energy:  -4.15976154 S2:   6.00000000
+   State    3 Energy:  -4.15438585 S2:   6.00000000
+   State    4 Energy:  -4.15403478 S2:   6.00000000
+   State    5 Energy:  -4.14233074 S2:   6.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 2  Dimension: 100      
+   State    1 Energy:  -5.83126073 S2:   6.00000000
+   State    2 Energy:  -5.77558704 S2:   2.00000000
+   State    3 Energy:  -5.77475007 S2:   6.00000000
+   State    4 Energy:  -5.76383856 S2:   2.00000000
+   State    5 Energy:  -5.76368907 S2:   2.00000000
+   State    6 Energy:  -5.73489836 S2:   2.00000000
+   State    7 Energy:  -5.73093922 S2:   6.00000000
+   State    8 Energy:  -5.73080423 S2:   6.00000000
+   State    9 Energy:  -5.72466051 S2:  -0.00000000
+   State   10 Energy:  -5.72031963 S2:  -0.00000000
+   State   11 Energy:  -5.71745850 S2:   2.00000000
+   State   12 Energy:  -5.71736522 S2:   2.00000000
+   State   13 Energy:  -5.71657779 S2:   2.00000000
+   State   14 Energy:  -5.71535752 S2:   2.00000000
+   State   15 Energy:  -5.71436333 S2:   6.00000000
+   State   16 Energy:  -5.71380241 S2:  -0.00000000
+   State   17 Energy:  -5.71367809 S2:   0.00000000
+   State   18 Energy:  -5.70662784 S2:   2.00000000
+   State   19 Energy:  -5.70468794 S2:  -0.00000000
+   State   20 Energy:  -5.69447855 S2:   2.00000000
+   State   21 Energy:  -5.68934054 S2:   2.00000000
+   State   22 Energy:  -5.68925253 S2:   2.00000000
+   State   23 Energy:  -5.68616259 S2:  -0.00000000
+   State   24 Energy:  -5.68074602 S2:  -0.00000000
+   State   25 Energy:  -5.67871834 S2:   2.00000000
+   State   26 Energy:  -5.67313759 S2:  -0.00000000
+   State   27 Energy:  -5.66633340 S2:  -0.00000000
+   State   28 Energy:  -5.66620742 S2:  -0.00000000
+   State   29 Energy:  -5.66525421 S2:   2.00000000
+   State   30 Energy:  -5.65881404 S2:   2.00000000
+   State   31 Energy:  -5.65879900 S2:   2.00000000
+   State   32 Energy:  -5.65713413 S2:   2.00000000
+   State   33 Energy:  -5.65682010 S2:   2.00000000
+   State   34 Energy:  -5.65024993 S2:   0.00000000
+   State   35 Energy:  -5.64354990 S2:   0.00000000
+   State   36 Energy:  -5.64346390 S2:  -0.00000000
+   State   37 Energy:  -5.64314299 S2:   2.00000000
+   State   38 Energy:  -5.64308504 S2:   2.00000000
+   State   39 Energy:  -5.63994505 S2:   2.00000000
+   State   40 Energy:  -5.63552262 S2:   2.00000000
+   State   41 Energy:  -5.63540151 S2:   2.00000000
+   State   42 Energy:  -5.63425180 S2:   0.00000000
+   State   43 Energy:  -5.62485713 S2:  -0.00000000
+   State   44 Energy:  -5.62418737 S2:   2.00000000
+   State   45 Energy:  -5.61564145 S2:  -0.00000000
+   State   46 Energy:  -5.61537320 S2:   2.00000000
+   State   47 Energy:  -5.61534504 S2:   2.00000000
+   State   48 Energy:  -5.61170063 S2:   2.00000000
+   State   49 Energy:  -5.60933344 S2:   2.00000000
+   State   50 Energy:  -5.60729073 S2:   0.00000000
+   State   51 Energy:  -5.60596356 S2:   0.00000000
+   State   52 Energy:  -5.60594918 S2:   0.00000000
+   State   53 Energy:  -5.60492199 S2:   2.00000000
+   State   54 Energy:  -5.60481804 S2:   2.00000000
+   State   55 Energy:  -5.60001365 S2:   2.00000000
+   State   56 Energy:  -5.59564350 S2:   0.00000000
+   State   57 Energy:  -5.59551754 S2:   0.00000000
+   State   58 Energy:  -5.59240123 S2:   2.00000000
+   State   59 Energy:  -5.58811813 S2:   0.00000000
+   State   60 Energy:  -5.58313971 S2:   2.00000000
+   State   61 Energy:  -5.58308741 S2:   2.00000000
+   State   62 Energy:  -5.57320440 S2:   2.00000000
+   State   63 Energy:  -5.56716248 S2:  -0.00000000
+   State   64 Energy:  -5.56576109 S2:  -0.00000000
+   State   65 Energy:  -5.56556285 S2:   0.00000000
+   State   66 Energy:  -5.56510728 S2:   0.00000000
+   State   67 Energy:  -5.56013656 S2:  -0.00000000
+   State   68 Energy:  -5.55269209 S2:  -0.00000000
+   State   69 Energy:  -5.55147897 S2:  -0.00000000
+   State   70 Energy:  -5.55146280 S2:  -0.00000000
+   State   71 Energy:  -5.54705489 S2:  -0.00000000
+   State   72 Energy:  -5.54183151 S2:   0.00000000
+   State   73 Energy:  -5.52490202 S2:   0.00000000
+   State   74 Energy:  -5.51370778 S2:   2.00000000
+   State   75 Energy:  -5.51061891 S2:   2.00000000
+   State   76 Energy:  -5.51060808 S2:   2.00000000
+   State   77 Energy:  -5.50838266 S2:   0.00000000
+   State   78 Energy:  -5.50827384 S2:   0.00000000
+   State   79 Energy:  -5.49959304 S2:   2.00000000
+   State   80 Energy:  -5.49955145 S2:   2.00000000
+   State   81 Energy:  -5.49431853 S2:   2.00000000
+   State   82 Energy:  -5.49120597 S2:   2.00000000
+   State   83 Energy:  -5.48755208 S2:  -0.00000000
+   State   84 Energy:  -5.48751566 S2:  -0.00000000
+   State   85 Energy:  -5.48671579 S2:  -0.00000000
+   State   86 Energy:  -5.47063599 S2:   0.00000000
+   State   87 Energy:  -5.45243252 S2:  -0.00000000
+   State   88 Energy:  -5.45142033 S2:   2.00000000
+   State   89 Energy:  -5.45123825 S2:   2.00000000
+   State   90 Energy:  -5.43919866 S2:   0.00000000
+   State   91 Energy:  -5.43790938 S2:   0.00000000
+   State   92 Energy:  -5.43129199 S2:   2.00000000
+   State   93 Energy:  -5.41781504 S2:   0.00000000
+   State   94 Energy:  -5.41774124 S2:  -0.00000000
+   State   95 Energy:  -5.38803685 S2:   0.00000000
+   State   96 Energy:  -5.37848205 S2:   0.00000000
+   State   97 Energy:  -5.37825722 S2:   0.00000000
+   State   98 Energy:  -5.34773414 S2:  -0.00000000
+   State   99 Energy:  -5.33501010 S2:   0.00000000
+   State  100 Energy:  -5.24131571 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 3  Dimension: 100      
+   State    1 Energy:  -5.41364734 S2:   8.75000000
+   State    2 Energy:  -5.31829976 S2:   3.75000000
+   State    3 Energy:  -5.31806738 S2:   3.75000000
+   State    4 Energy:  -5.30378926 S2:   3.75000000
+   State    5 Energy:  -5.30054667 S2:   3.75000000
+   State    6 Energy:  -5.28799790 S2:   3.75000000
+   State    7 Energy:  -5.28572618 S2:   3.75000000
+   State    8 Energy:  -5.28262765 S2:   3.75000000
+   State    9 Energy:  -5.28252644 S2:   3.75000000
+   State   10 Energy:  -5.28212417 S2:   3.75000000
+   State   11 Energy:  -5.27414196 S2:   0.75000000
+   State   12 Energy:  -5.27393297 S2:   0.75000000
+   State   13 Energy:  -5.26933996 S2:   0.75000000
+   State   14 Energy:  -5.25993305 S2:   3.75000000
+   State   15 Energy:  -5.25571766 S2:   3.75000000
+   State   16 Energy:  -5.25513466 S2:   0.75000000
+   State   17 Energy:  -5.25495654 S2:   0.75000000
+   State   18 Energy:  -5.25378350 S2:   3.75000000
+   State   19 Energy:  -5.25369380 S2:   3.75000000
+   State   20 Energy:  -5.25176113 S2:   3.75000000
+   State   21 Energy:  -5.24986281 S2:   0.75000000
+   State   22 Energy:  -5.24567748 S2:   0.75000000
+   State   23 Energy:  -5.24552256 S2:   0.75000000
+   State   24 Energy:  -5.24467856 S2:   0.75000000
+   State   25 Energy:  -5.24041774 S2:   3.75000000
+   State   26 Energy:  -5.23813405 S2:   0.75000000
+   State   27 Energy:  -5.23415041 S2:   0.75000000
+   State   28 Energy:  -5.23189957 S2:   0.75000000
+   State   29 Energy:  -5.22793899 S2:   0.75000000
+   State   30 Energy:  -5.22776159 S2:   3.75000000
+   State   31 Energy:  -5.22771582 S2:   3.75000000
+   State   32 Energy:  -5.22176057 S2:   0.75000000
+   State   33 Energy:  -5.22160646 S2:   0.75000000
+   State   34 Energy:  -5.22116663 S2:   0.75000000
+   State   35 Energy:  -5.21609301 S2:   0.75000000
+   State   36 Energy:  -5.21224562 S2:   0.75000000
+   State   37 Energy:  -5.21019100 S2:   0.75000000
+   State   38 Energy:  -5.20960858 S2:   0.75000000
+   State   39 Energy:  -5.20119677 S2:   0.75000000
+   State   40 Energy:  -5.20109823 S2:   0.75000000
+   State   41 Energy:  -5.20060633 S2:   0.75000000
+   State   42 Energy:  -5.19730838 S2:   0.75000000
+   State   43 Energy:  -5.19713613 S2:   0.75000000
+   State   44 Energy:  -5.19383313 S2:   0.75000000
+   State   45 Energy:  -5.18679809 S2:   0.75000000
+   State   46 Energy:  -5.18379527 S2:   3.75000000
+   State   47 Energy:  -5.18328955 S2:   3.75000000
+   State   48 Energy:  -5.18319413 S2:   3.75000000
+   State   49 Energy:  -5.17938640 S2:   3.75000000
+   State   50 Energy:  -5.17922115 S2:   0.75000000
+   State   51 Energy:  -5.17857098 S2:   0.75000000
+   State   52 Energy:  -5.17846782 S2:   0.75000000
+   State   53 Energy:  -5.17842117 S2:   0.75000000
+   State   54 Energy:  -5.17263891 S2:   0.75000000
+   State   55 Energy:  -5.17246680 S2:   3.75000000
+   State   56 Energy:  -5.17237889 S2:   3.75000000
+   State   57 Energy:  -5.17227901 S2:   0.75000000
+   State   58 Energy:  -5.17209037 S2:   0.75000000
+   State   59 Energy:  -5.17189132 S2:   0.75000000
+   State   60 Energy:  -5.16305736 S2:   0.75000000
+   State   61 Energy:  -5.16292193 S2:   0.75000000
+   State   62 Energy:  -5.15863881 S2:   0.75000000
+   State   63 Energy:  -5.15859980 S2:   0.75000000
+   State   64 Energy:  -5.15654639 S2:   0.75000000
+   State   65 Energy:  -5.15278026 S2:   0.75000000
+   State   66 Energy:  -5.15184904 S2:   0.75000000
+   State   67 Energy:  -5.15032764 S2:   0.75000000
+   State   68 Energy:  -5.14897246 S2:   0.75000000
+   State   69 Energy:  -5.14889328 S2:   0.75000000
+   State   70 Energy:  -5.14662260 S2:   3.75000000
+   State   71 Energy:  -5.14249188 S2:   0.75000000
+   State   72 Energy:  -5.13743962 S2:   0.75000000
+   State   73 Energy:  -5.13740869 S2:   0.75000000
+   State   74 Energy:  -5.13504415 S2:   0.75000000
+   State   75 Energy:  -5.13181784 S2:   0.75000000
+   State   76 Energy:  -5.12185418 S2:   0.75000000
+   State   77 Energy:  -5.11938895 S2:   0.75000000
+   State   78 Energy:  -5.11927004 S2:   0.75000000
+   State   79 Energy:  -5.08847774 S2:   0.75000000
+   State   80 Energy:  -5.08845806 S2:   0.75000000
+   State   81 Energy:  -5.08658123 S2:   0.75000000
+   State   82 Energy:  -5.08301237 S2:   0.75000000
+   State   83 Energy:  -5.07879529 S2:   0.75000000
+   State   84 Energy:  -5.06530374 S2:   0.75000000
+   State   85 Energy:  -5.06028931 S2:   0.75000000
+   State   86 Energy:  -5.06027482 S2:   0.75000000
+   State   87 Energy:  -5.05546672 S2:   0.75000000
+   State   88 Energy:  -5.04975955 S2:   0.75000000
+   State   89 Energy:  -5.04814775 S2:   0.75000000
+   State   90 Energy:  -5.04811162 S2:   0.75000000
+   State   91 Energy:  -5.04598644 S2:   0.75000000
+   State   92 Energy:  -5.03872186 S2:   0.75000000
+   State   93 Energy:  -4.99442116 S2:   0.75000000
+   State   94 Energy:  -4.99428196 S2:   0.75000000
+   State   95 Energy:  -4.97801481 S2:   0.75000000
+   State   96 Energy:  -4.94166101 S2:   0.75000000
+   State   97 Energy:  -4.93964029 S2:   0.75000000
+   State   98 Energy:  -4.92421322 S2:   0.75000000
+   State   99 Energy:  -4.92382218 S2:   0.75000000
+   State  100 Energy:  -4.92364278 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 0  Dimension: 5        
+   State    1 Energy:  -2.59521884 S2:   0.75000000
+   State    2 Energy:  -2.56621685 S2:   0.75000000
+   State    3 Energy:  -2.56610092 S2:   0.75000000
+   State    4 Energy:  -2.46414820 S2:   0.75000000
+   State    5 Energy:  -2.34949075 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 0  Dimension: 1        
+   State    1 Energy:   0.00000000 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 2  #β = 4  Dimension: 50       
+   State    1 Energy:  -4.16160059 S2:   6.00000000
+   State    2 Energy:  -4.15976154 S2:   6.00000000
+   State    3 Energy:  -4.15438585 S2:   6.00000000
+   State    4 Energy:  -4.15403478 S2:   6.00000000
+   State    5 Energy:  -4.14233074 S2:   6.00000000
+   State    6 Energy:  -4.07514591 S2:   2.00000000
+   State    7 Energy:  -4.07429792 S2:   2.00000000
+   State    8 Energy:  -4.07402721 S2:   2.00000000
+   State    9 Energy:  -4.07322558 S2:   2.00000000
+   State   10 Energy:  -4.07089065 S2:   2.00000000
+   State   11 Energy:  -4.07081014 S2:   2.00000000
+   State   12 Energy:  -4.06967835 S2:   2.00000000
+   State   13 Energy:  -4.06863485 S2:   2.00000000
+   State   14 Energy:  -4.06858691 S2:   2.00000000
+   State   15 Energy:  -4.06435677 S2:   2.00000000
+   State   16 Energy:  -4.06377576 S2:   2.00000000
+   State   17 Energy:  -4.05857090 S2:   2.00000000
+   State   18 Energy:  -4.05613209 S2:   2.00000000
+   State   19 Energy:  -4.05591490 S2:   2.00000000
+   State   20 Energy:  -4.05518488 S2:   2.00000000
+   State   21 Energy:  -4.05413450 S2:   2.00000000
+   State   22 Energy:  -4.05401855 S2:   2.00000000
+   State   23 Energy:  -4.04954241 S2:   2.00000000
+   State   24 Energy:  -4.04765750 S2:   2.00000000
+   State   25 Energy:  -4.04762179 S2:   2.00000000
+   State   26 Energy:  -4.04666169 S2:   2.00000000
+   State   27 Energy:  -4.04466919 S2:   2.00000000
+   State   28 Energy:  -4.04411596 S2:   2.00000000
+   State   29 Energy:  -4.04407503 S2:   2.00000000
+   State   30 Energy:  -4.04378573 S2:   2.00000000
+   State   31 Energy:  -4.04064222 S2:   2.00000000
+   State   32 Energy:  -4.03640144 S2:   2.00000000
+   State   33 Energy:  -4.03631499 S2:   2.00000000
+   State   34 Energy:  -4.03619194 S2:   2.00000000
+   State   35 Energy:  -4.03262066 S2:   2.00000000
+   State   36 Energy:  -4.01325708 S2:   2.00000000
+   State   37 Energy:  -4.01312384 S2:   2.00000000
+   State   38 Energy:  -4.00877990 S2:   2.00000000
+   State   39 Energy:  -4.00590062 S2:   2.00000000
+   State   40 Energy:  -4.00432301 S2:   2.00000000
+   State   41 Energy:  -3.93412977 S2:   2.00000000
+   State   42 Energy:  -3.92155851 S2:   2.00000000
+   State   43 Energy:  -3.92148078 S2:   2.00000000
+   State   44 Energy:  -3.91566194 S2:   2.00000000
+   State   45 Energy:  -3.91208690 S2:   2.00000000
+   State   46 Energy:  -3.91141492 S2:   2.00000000
+   State   47 Energy:  -3.91127133 S2:   2.00000000
+   State   48 Energy:  -3.90420311 S2:   2.00000000
+   State   49 Energy:  -3.90173317 S2:   2.00000000
+   State   50 Energy:  -3.90154098 S2:   2.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 1  #β = 1  Dimension: 25       
+   State    1 Energy:  -4.43339476 S2:   2.00000000
+   State    2 Energy:  -4.43330871 S2:   2.00000000
+   State    3 Energy:  -4.41203652 S2:   2.00000000
+   State    4 Energy:  -4.37719038 S2:  -0.00000000
+   State    5 Energy:  -4.36643543 S2:   0.00000000
+   State    6 Energy:  -4.36639106 S2:   0.00000000
+   State    7 Energy:  -4.34146290 S2:   0.00000000
+   State    8 Energy:  -4.34068489 S2:  -0.00000000
+   State    9 Energy:  -4.32615865 S2:   2.00000000
+   State   10 Energy:  -4.32608619 S2:   2.00000000
+   State   11 Energy:  -4.29793685 S2:   2.00000000
+   State   12 Energy:  -4.27371222 S2:  -0.00000000
+   State   13 Energy:  -4.27094486 S2:   0.00000000
+   State   14 Energy:  -4.26615118 S2:   2.00000000
+   State   15 Energy:  -4.25934312 S2:  -0.00000000
+   State   16 Energy:  -4.25930129 S2:   0.00000000
+   State   17 Energy:  -4.19747660 S2:  -0.00000000
+   State   18 Energy:  -4.19226010 S2:   2.00000000
+   State   19 Energy:  -4.19221194 S2:   2.00000000
+   State   20 Energy:  -4.15762912 S2:   2.00000000
+   State   21 Energy:  -4.15676187 S2:  -0.00000000
+   State   22 Energy:  -4.15672821 S2:  -0.00000000
+   State   23 Energy:  -4.14044441 S2:   0.00000000
+   State   24 Energy:  -4.09042347 S2:  -0.00000000
+   State   25 Energy:  -3.93998213 S2:   0.00000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 0  #β = 1  Dimension: 5        
+   State    1 Energy:  -2.59521884 S2:   0.75000000
+   State    2 Energy:  -2.56621685 S2:   0.75000000
+   State    3 Energy:  -2.56610092 S2:   0.75000000
+   State    4 Energy:  -2.46414820 S2:   0.75000000
+   State    5 Energy:  -2.34949075 S2:   0.75000000
+
+ FCIAnsatz:: #Orbs = 5   #α = 3  #β = 0  Dimension: 10       
+   State    1 Energy:  -5.53635462 S2:   3.75000000
+   State    2 Energy:  -5.45342146 S2:   3.75000000
+   State    3 Energy:  -5.44382939 S2:   3.75000000
+   State    4 Energy:  -5.44378676 S2:   3.75000000
+   State    5 Energy:  -5.38051542 S2:   3.75000000
+   State    6 Energy:  -5.38044497 S2:   3.75000000
+   State    7 Energy:  -5.34916257 S2:   3.75000000
+   State    8 Energy:  -5.29284217 S2:   3.75000000
+   State    9 Energy:  -5.29219795 S2:   3.75000000
+   State   10 Energy:  -5.29191340 S2:   3.75000000
+ Remove duplicates
+ Number of terms reduced from   327 to   159
+IDX001:DIM1024:001|002|003|004|005|
+IDX002:DIM0256:006|007|008|009|
+IDX003:DIM1024:010|011|012|013|014|
+ |== BST CI ========================================================
+ Solve CI with # variables:                                 4
+ Cache Hamiltonian:                                  5.528176 seconds (16.73 M allocations: 817.866 MiB, 2.01% gc time, 99.97% compilation time)
+┌ Warning: ("initial guess det(v0'v0) = ", NaN)
+└ @ FermiCG ~/.conda/envs/bst_cmx/share/julia/packages/FermiCG/oQTD6/src/type_BSTstate.jl:445
+ERROR: LoadError: ArgumentError: matrix contains Infs or NaNs
+Stacktrace:
+  [1] chkfinite
+    @ ~/.conda/envs/bst_cmx/share/julia/stdlib/v1.8/LinearAlgebra/src/lapack.jl:87 [inlined]
+  [2] geevx!(balanc::Char, jobvl::Char, jobvr::Char, sense::Char, A::Matrix{Float64})
+    @ LinearAlgebra.LAPACK ~/.conda/envs/bst_cmx/share/julia/stdlib/v1.8/LinearAlgebra/src/lapack.jl:2046
+  [3] eigen!(A::Matrix{Float64}; permute::Bool, scale::Bool, sortby::typeof(LinearAlgebra.eigsortby))
+    @ LinearAlgebra ~/.conda/envs/bst_cmx/share/julia/stdlib/v1.8/LinearAlgebra/src/eigen.jl:153
+  [4] eigen(A::Matrix{Float64}; permute::Bool, scale::Bool, sortby::typeof(LinearAlgebra.eigsortby))
+    @ LinearAlgebra ~/.conda/envs/bst_cmx/share/julia/stdlib/v1.8/LinearAlgebra/src/eigen.jl:238
+  [5] eigen
+    @ ~/.conda/envs/bst_cmx/share/julia/stdlib/v1.8/LinearAlgebra/src/eigen.jl:235 [inlined]
+  [6] iteration(solver::BlockDavidson.Davidson; Adiag::Nothing, iprint::Int64)
+    @ BlockDavidson ~/.julia/packages/BlockDavidson/FZQc5/src/BlockDavidson.jl:129
+  [7] eigs(solver::BlockDavidson.Davidson; Adiag::Nothing, iprint::Int64)
+    @ BlockDavidson ~/.julia/packages/BlockDavidson/FZQc5/src/BlockDavidson.jl:192
+  [8] eigs
+    @ ~/.julia/packages/BlockDavidson/FZQc5/src/BlockDavidson.jl:188 [inlined]
+  [9] macro expansion
+    @ ./timing.jl:382 [inlined]
+ [10] ci_solve(ci_vector_in::BSTstate{Float64, 3, 6}, cluster_ops::Vector{FermiCG.ClusterOps{Float64}}, clustered_ham::ClusteredOperator{3}; conv_thresh::Float64, max_ss_vecs::Int64, max_iter::Int64, lindep_thresh::Float64, shift::Nothing, precond::Bool, verbose::Int64, nbody::Int64, solver::String)
+    @ FermiCG ~/.conda/envs/bst_cmx/share/julia/packages/FermiCG/oQTD6/src/tucker_outer.jl:171
+ [11] ci_solve(ci_vector_in::BSTstate{Float64, 3, 6}, cluster_ops::Vector{FermiCG.ClusterOps{Float64}}, clustered_ham::ClusteredOperator{3})
+    @ FermiCG ~/.conda/envs/bst_cmx/share/julia/packages/FermiCG/oQTD6/src/tucker_outer.jl:68
+ [12] top-level scope
+    @ /localscratch/1502626/bst_02.jl:52
+in expression starting at /localscratch/1502626/bst_02.jl:52
