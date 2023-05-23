@@ -46,7 +46,7 @@ e_cmf, U, d1 = ClusterMeanField.cmf_oo_diis(ints, clusters, init_fspace, d1,
                            sequential   = true, 
                            alpha        = .1,
                            diis_start   = 1,
-                           max_ss_size  = 24)
+                           max_ss_size  = 36)
 
 ints = orbital_rotation(ints, U)
 C = C*U

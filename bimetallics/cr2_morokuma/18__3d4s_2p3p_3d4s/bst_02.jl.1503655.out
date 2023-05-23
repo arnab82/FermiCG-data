@@ -9001,3 +9001,12 @@ IDX003:DIM4096:013|014|015|016|017|018|
      2 -61.09012948   2.00988029
      3 -61.08849617   5.94149171
      4 -61.08672593  11.98699655
+
+ Compute FOIS. Reference space dim:                       420
+ Number of tasks:                                          73
+ Compute tasks:                                    
+ Time building compressed vector:                   95.011011 seconds   1.11e+02 Gb GC: 4.8e+00 sec
+ Add results together:                             267.229531 seconds   6.89e+02 Gb GC: 2.5e+00 sec
+ Compute Compressed FOIS:                          362.240984 seconds   8.00e+02 Gb
+
+ |...................................BST-PT2............................................

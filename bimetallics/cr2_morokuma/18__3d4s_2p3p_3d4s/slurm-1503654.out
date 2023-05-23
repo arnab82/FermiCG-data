@@ -48,3 +48,35 @@ bst_01.jl.out
 
 sent 265,452 bytes  received 35 bytes  530,974.00 bytes/sec
 total size is 265,271  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 266,923 bytes  received 35 bytes  533,916.00 bytes/sec
+total size is 266,742  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 270,447 bytes  received 35 bytes  180,321.33 bytes/sec
+total size is 270,266  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 270,724 bytes  received 35 bytes  541,518.00 bytes/sec
+total size is 270,543  speedup is 1.00
+sending incremental file list
+bst_01.jl.out
+
+sent 270,998 bytes  received 35 bytes  542,066.00 bytes/sec
+total size is 270,817  speedup is 1.00
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 270,817  speedup is 3,149.03
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 270,817  speedup is 3,149.03
+sending incremental file list
+
+sent 74 bytes  received 12 bytes  172.00 bytes/sec
+total size is 270,817  speedup is 3,149.03
