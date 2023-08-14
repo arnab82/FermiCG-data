@@ -1,0 +1,94 @@
+ Input energy:    -5357.29235125
+IDX001:DIM4194304:001|002|003|004|005|006|007|008|009|010|011|
+IDX002:DIM4096:012|013|014|015|016|017|
+IDX003:DIM4194304:018|019|020|021|022|023|024|025|026|027|028|
+Overwritten attributes  conv_tol_residual  of <class 'pyscf.fci.direct_spin1.FCISolver'>
+ ooCMF Iter:    1 Total= -5357.391844004548 Active= -127.365632831425 G=     5.87e-02
+ ooCMF Iter:    2 Total= -5357.392378511935 Active= -127.366167338811 G=     6.80e-02
+ ooCMF Iter:    3 Total= -5357.392497707840 Active= -127.366286534717 G=     6.91e-02
+ ooCMF Iter:    4 Total= -5357.392723747238 Active= -127.366512574114 G=     5.70e-02
+ ooCMF Iter:    5 Total= -5357.392883627518 Active= -127.366672454395 G=     2.88e-02
+ ooCMF Iter:    6 Total= -5357.392899213086 Active= -127.366688039962 G=     2.08e-02
+ ooCMF Iter:    7 Total= -5357.392909472363 Active= -127.366698299239 G=     9.84e-03
+ ooCMF Iter:    8 Total= -5357.392969345549 Active= -127.366758172426 G=     4.16e-02
+ ooCMF Iter:    9 Total= -5357.393003948436 Active= -127.366792775312 G=     2.90e-02
+ ooCMF Iter:   10 Total= -5357.393073965203 Active= -127.366862792080 G=     2.24e-02
+ ooCMF Iter:   11 Total= -5357.393090116419 Active= -127.366878943295 G=     2.81e-02
+ ooCMF Iter:   12 Total= -5357.393116553738 Active= -127.366905380614 G=     1.90e-02
+ ooCMF Iter:   13 Total= -5357.393207237816 Active= -127.366996064692 G=     1.60e-02
+ ooCMF Iter:   14 Total= -5357.393216458683 Active= -127.367005285560 G=     1.79e-02
+ ooCMF Iter:   15 Total= -5357.393224532560 Active= -127.367013359436 G=     1.39e-02
+ ooCMF Iter:   16 Total= -5357.393233964545 Active= -127.367022791422 G=     7.96e-03
+ ooCMF Iter:   17 Total= -5357.393237799612 Active= -127.367026626488 G=     1.42e-02
+ ooCMF Iter:   18 Total= -5357.393243978986 Active= -127.367032805862 G=     4.78e-03
+ ooCMF Iter:   19 Total= -5357.393245031054 Active= -127.367033857930 G=     1.49e-03
+ ooCMF Iter:   20 Total= -5357.393245235677 Active= -127.367034062553 G=     3.92e-03
+ ooCMF Iter:   21 Total= -5357.393246048734 Active= -127.367034875610 G=     3.11e-03
+ ooCMF Iter:   22 Total= -5357.393248292914 Active= -127.367037119790 G=     3.13e-03
+ ooCMF Iter:   23 Total= -5357.393248519130 Active= -127.367037346006 G=     2.97e-03
+ ooCMF Iter:   24 Total= -5357.393248645619 Active= -127.367037472495 G=     2.46e-03
+ ooCMF Iter:   25 Total= -5357.393248946097 Active= -127.367037772973 G=     2.37e-03
+ ooCMF Iter:   26 Total= -5357.393249335503 Active= -127.367038162380 G=     1.67e-03
+ ooCMF Iter:   27 Total= -5357.393249598897 Active= -127.367038425773 G=     4.67e-04
+ ooCMF Iter:   28 Total= -5357.393249624498 Active= -127.367038451374 G=     5.45e-04
+ ooCMF Iter:   29 Total= -5357.393249649683 Active= -127.367038476559 G=     2.85e-04
+ ooCMF Iter:   30 Total= -5357.393249653840 Active= -127.367038480716 G=     2.47e-04
+ ooCMF Iter:   31 Total= -5357.393249656848 Active= -127.367038483724 G=     2.15e-04
+ ooCMF Iter:   32 Total= -5357.393249670410 Active= -127.367038497287 G=     2.48e-04
+ ooCMF Iter:   33 Total= -5357.393249671442 Active= -127.367038498319 G=     2.57e-04
+ ooCMF Iter:   34 Total= -5357.393249674254 Active= -127.367038501130 G=     2.54e-04
+ ooCMF Iter:   35 Total= -5357.393249682691 Active= -127.367038509567 G=     3.12e-04
+ ooCMF Iter:   36 Total= -5357.393249692030 Active= -127.367038518906 G=     6.76e-04
+ ooCMF Iter:   37 Total= -5357.393249701490 Active= -127.367038528367 G=     1.25e-04
+ ooCMF Iter:   38 Total= -5357.393249701984 Active= -127.367038528861 G=     1.35e-04
+ ooCMF Iter:   39 Total= -5357.393249702247 Active= -127.367038529123 G=     8.73e-05
+ ooCMF Iter:   40 Total= -5357.393249702649 Active= -127.367038529525 G=     8.21e-05
+ ooCMF Iter:   41 Total= -5357.393249703150 Active= -127.367038530027 G=     9.56e-05
+ ooCMF Iter:   42 Total= -5357.393249703388 Active= -127.367038530265 G=     8.70e-05
+ ooCMF Iter:   43 Total= -5357.393249703565 Active= -127.367038530441 G=     3.80e-05
+ ooCMF Iter:   44 Total= -5357.393249703854 Active= -127.367038530730 G=     1.00e-04
+ ooCMF Iter:   45 Total= -5357.393249704008 Active= -127.367038530884 G=     5.34e-05
+ ooCMF Iter:   46 Total= -5357.393249704235 Active= -127.367038531112 G=     4.90e-05
+ ooCMF Iter:   47 Total= -5357.393249704395 Active= -127.367038531272 G=     5.29e-05
+ ooCMF Iter:   48 Total= -5357.393249704452 Active= -127.367038531328 G=     5.79e-05
+ ooCMF Iter:   49 Total= -5357.393249704803 Active= -127.367038531679 G=     2.15e-05
+ ooCMF Iter:   50 Total= -5357.393249704832 Active= -127.367038531708 G=     1.76e-05
+ ooCMF Iter:   51 Total= -5357.393249704834 Active= -127.367038531710 G=     1.53e-05
+ ooCMF Iter:   52 Total= -5357.393249704845 Active= -127.367038531722 G=     1.41e-05
+ ooCMF Iter:   53 Total= -5357.393249704862 Active= -127.367038531738 G=     4.10e-06
+ ooCMF Iter:   54 Total= -5357.393249704866 Active= -127.367038531743 G=     7.28e-06
+ ooCMF Iter:   55 Total= -5357.393249704868 Active= -127.367038531745 G=     9.30e-06
+ ooCMF Iter:   56 Total= -5357.393249704873 Active= -127.367038531749 G=     9.94e-06
+ ooCMF Iter:   57 Total= -5357.393249704893 Active= -127.367038531769 G=     1.00e-05
+ ooCMF Iter:   58 Total= -5357.393249704898 Active= -127.367038531775 G=     9.49e-06
+ ooCMF Iter:   59 Total= -5357.393249704905 Active= -127.367038531781 G=     9.40e-06
+ ooCMF Iter:   60 Total= -5357.393249704915 Active= -127.367038531792 G=     4.60e-06
+ ooCMF Iter:   61 Total= -5357.393249704919 Active= -127.367038531796 G=     5.52e-06
+ ooCMF Iter:   62 Total= -5357.393249704921 Active= -127.367038531797 G=     3.57e-06
+ ooCMF Iter:   63 Total= -5357.393249704920 Active= -127.367038531796 G=     1.61e-06
+ * Status: success (objective increased between iterations)
+
+ * Candidate solution
+    Final objective value:     -5.357393e+03
+
+ * Found with
+    Algorithm:     BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.99e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 5.56e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 9.09e-13 ≰ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 1.70e-16 ≰ 0.0e+00
+    |g(x)|                 = 4.65e-07 ≤ 1.0e-06
+
+ * Work counters
+    Seconds run:   194  (vs limit Inf)
+    Iterations:    62
+    f(x) calls:    126
+    ∇f(x) calls:   126
+*ooCMF -5357.39324970 
+ Solve OO-CMF with DIIS
+ ooCMF Iter:    1 Total= -5357.393249704921 G=     3.69e-06 #SS:    1
+ ooCMF Iter:    2 Total= -5357.393249704923 G=     4.57e-06 #SS:    2
+ ooCMF Iter:    3 Total= -5357.393249704922 G=     1.33e-06 #SS:    3
+*ooCMF Iter:    4 Total= -5357.393249704924 G=     6.28e-07 #SS:    4

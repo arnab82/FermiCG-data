@@ -1,0 +1,60 @@
+ Input energy:    -5067.48961129
+IDX001:DIM1048576:001|002|003|004|005|006|007|008|009|010|
+IDX002:DIM4096:011|012|013|014|015|016|
+IDX003:DIM4096:017|018|019|020|021|022|
+IDX004:DIM1048576:023|024|025|026|027|028|029|030|031|032|
+Overwritten attributes  conv_tol_residual  of <class 'pyscf.fci.direct_spin1.FCISolver'>
+ ooCMF Iter:    1 Total= -5067.546735405313 Active= -80.575774662260 G=     2.01e-02
+ ooCMF Iter:    2 Total= -5067.546810972977 Active= -80.575850229924 G=     1.01e-02
+ ooCMF Iter:    3 Total= -5067.546827180192 Active= -80.575866437139 G=     8.08e-03
+ ooCMF Iter:    4 Total= -5067.546841135772 Active= -80.575880392719 G=     5.57e-03
+ ooCMF Iter:    5 Total= -5067.546862258242 Active= -80.575901515189 G=     1.40e-02
+ ooCMF Iter:    6 Total= -5067.546961083145 Active= -80.576000340092 G=     2.14e-02
+ ooCMF Iter:    7 Total= -5067.547068029415 Active= -80.576107286362 G=     1.31e-02
+ ooCMF Iter:    8 Total= -5067.547090863975 Active= -80.576130120921 G=     7.88e-03
+ ooCMF Iter:    9 Total= -5067.547104148950 Active= -80.576143405897 G=     4.18e-03
+ ooCMF Iter:   10 Total= -5067.547105827827 Active= -80.576145084774 G=     1.45e-03
+ ooCMF Iter:   11 Total= -5067.547106167786 Active= -80.576145424733 G=     7.19e-04
+ ooCMF Iter:   12 Total= -5067.547106241028 Active= -80.576145497975 G=     4.47e-04
+ ooCMF Iter:   13 Total= -5067.547106275482 Active= -80.576145532429 G=     2.14e-04
+ ooCMF Iter:   14 Total= -5067.547106289461 Active= -80.576145546408 G=     3.01e-04
+ ooCMF Iter:   15 Total= -5067.547106321206 Active= -80.576145578153 G=     3.94e-04
+ ooCMF Iter:   16 Total= -5067.547106386981 Active= -80.576145643928 G=     5.48e-04
+ ooCMF Iter:   17 Total= -5067.547106479914 Active= -80.576145736861 G=     7.29e-04
+ ooCMF Iter:   18 Total= -5067.547106632206 Active= -80.576145889153 G=     3.72e-04
+ ooCMF Iter:   19 Total= -5067.547106648843 Active= -80.576145905789 G=     1.87e-04
+ ooCMF Iter:   20 Total= -5067.547106654878 Active= -80.576145911825 G=     9.22e-05
+ ooCMF Iter:   21 Total= -5067.547106656385 Active= -80.576145913332 G=     4.98e-05
+ ooCMF Iter:   22 Total= -5067.547106656648 Active= -80.576145913595 G=     1.33e-05
+ ooCMF Iter:   23 Total= -5067.547106656688 Active= -80.576145913635 G=     1.21e-05
+ ooCMF Iter:   24 Total= -5067.547106656729 Active= -80.576145913676 G=     1.38e-05
+ ooCMF Iter:   25 Total= -5067.547106656791 Active= -80.576145913737 G=     1.64e-05
+ ooCMF Iter:   26 Total= -5067.547106656930 Active= -80.576145913877 G=     3.19e-05
+ ooCMF Iter:   27 Total= -5067.547106657281 Active= -80.576145914228 G=     2.66e-05
+ ooCMF Iter:   28 Total= -5067.547106657407 Active= -80.576145914354 G=     1.57e-05
+ ooCMF Iter:   29 Total= -5067.547106657440 Active= -80.576145914387 G=     8.06e-06
+ ooCMF Iter:   30 Total= -5067.547106657451 Active= -80.576145914398 G=     4.18e-06
+ ooCMF Iter:   31 Total= -5067.547106657454 Active= -80.576145914401 G=     1.19e-06
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     -5.067547e+03
+
+ * Found with
+    Algorithm:     BFGS
+
+ * Convergence measures
+    |x - x'|               = 2.77e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 7.08e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 2.73e-12 ≰ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 5.38e-16 ≰ 0.0e+00
+    |g(x)|                 = 2.94e-07 ≤ 1.0e-06
+
+ * Work counters
+    Seconds run:   50  (vs limit Inf)
+    Iterations:    30
+    f(x) calls:    64
+    ∇f(x) calls:   64
+*ooCMF -5067.54710666 
+ Solve OO-CMF with DIIS
+*ooCMF Iter:    1 Total= -5067.547106657453 G=     6.62e-07 #SS:    1

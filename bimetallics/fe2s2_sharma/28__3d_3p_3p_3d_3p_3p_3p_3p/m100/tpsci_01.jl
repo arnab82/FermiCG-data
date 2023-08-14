@@ -5,8 +5,9 @@ using InCoreIntegrals
 using RDM
 using JLD2
 using LinearAlgebra
+using MKL
 
-@load "../data_cmf.jld2"
+@load "data_cmf.jld2"
 
 M = 100
 
@@ -43,7 +44,7 @@ for v in values
                                 ci_max_iter  = 100,
                                 conv_thresh  = 1e-5,
                                 nbody        = 4,
-                                max_mem_ci   = 50);
+                                max_mem_ci   = 200);
 
     @save "out.jld2" ci_vector v0a e0a cluster_bases clustered_ham init_fspace v 
 
