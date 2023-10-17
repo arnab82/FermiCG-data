@@ -1,0 +1,67 @@
+ Input energy:    -5357.32520484
+IDX001:DIM1048576:001|002|003|004|005|006|007|008|009|010|
+IDX002:DIM4096:011|012|013|014|015|016|
+IDX003:DIM1048576:017|018|019|020|021|022|023|024|025|026|
+Overwritten attributes  conv_tol_residual  of <class 'pyscf.fci.direct_spin1.FCISolver'>
+ ooCMF Iter:    1 Total= -5357.438019668954 Active= -56.133271546888 G=     7.08e-02
+ ooCMF Iter:    2 Total= -5357.439255075322 Active= -56.134506953255 G=     4.78e-02
+ ooCMF Iter:    3 Total= -5357.439878896006 Active= -56.135130773940 G=     3.97e-02
+ ooCMF Iter:    4 Total= -5357.440111209869 Active= -56.135363087802 G=     3.43e-02
+ ooCMF Iter:    5 Total= -5357.440710645912 Active= -56.135962523846 G=     5.22e-02
+ ooCMF Iter:    6 Total= -5357.441505018559 Active= -56.136756896492 G=     4.03e-02
+ ooCMF Iter:    7 Total= -5357.441724838956 Active= -56.136976716890 G=     3.33e-02
+ ooCMF Iter:    8 Total= -5357.442015831074 Active= -56.137267709008 G=     1.69e-02
+ ooCMF Iter:    9 Total= -5357.442063679509 Active= -56.137315557443 G=     5.79e-03
+ ooCMF Iter:   10 Total= -5357.442066515917 Active= -56.137318393850 G=     1.87e-03
+ ooCMF Iter:   11 Total= -5357.442067156353 Active= -56.137319034287 G=     1.27e-03
+ ooCMF Iter:   12 Total= -5357.442067464409 Active= -56.137319342342 G=     9.37e-04
+ ooCMF Iter:   13 Total= -5357.442067575610 Active= -56.137319453544 G=     6.20e-04
+ ooCMF Iter:   14 Total= -5357.442067717474 Active= -56.137319595407 G=     6.59e-04
+ ooCMF Iter:   15 Total= -5357.442067790104 Active= -56.137319668038 G=     6.26e-04
+ ooCMF Iter:   16 Total= -5357.442067950851 Active= -56.137319828785 G=     9.90e-04
+ ooCMF Iter:   17 Total= -5357.442068213184 Active= -56.137320091118 G=     1.02e-03
+ ooCMF Iter:   18 Total= -5357.442068339181 Active= -56.137320217114 G=     3.07e-04
+ ooCMF Iter:   19 Total= -5357.442068357639 Active= -56.137320235573 G=     2.75e-04
+ ooCMF Iter:   20 Total= -5357.442068373550 Active= -56.137320251483 G=     2.37e-04
+ ooCMF Iter:   21 Total= -5357.442068384619 Active= -56.137320262553 G=     1.56e-04
+ ooCMF Iter:   22 Total= -5357.442068404062 Active= -56.137320281995 G=     3.82e-04
+ ooCMF Iter:   23 Total= -5357.442068436206 Active= -56.137320314139 G=     2.72e-04
+ ooCMF Iter:   24 Total= -5357.442068450331 Active= -56.137320328265 G=     2.02e-04
+ ooCMF Iter:   25 Total= -5357.442068459018 Active= -56.137320336951 G=     1.77e-04
+ ooCMF Iter:   26 Total= -5357.442068463582 Active= -56.137320341515 G=     6.78e-05
+ ooCMF Iter:   27 Total= -5357.442068464603 Active= -56.137320342536 G=     4.45e-05
+ ooCMF Iter:   28 Total= -5357.442068464997 Active= -56.137320342930 G=     3.07e-05
+ ooCMF Iter:   29 Total= -5357.442068465126 Active= -56.137320343059 G=     2.03e-05
+ ooCMF Iter:   30 Total= -5357.442068465324 Active= -56.137320343258 G=     2.55e-05
+ ooCMF Iter:   31 Total= -5357.442068465440 Active= -56.137320343373 G=     2.43e-05
+ ooCMF Iter:   32 Total= -5357.442068465615 Active= -56.137320343549 G=     2.93e-05
+ ooCMF Iter:   33 Total= -5357.442068465900 Active= -56.137320343833 G=     1.22e-05
+ ooCMF Iter:   34 Total= -5357.442068465919 Active= -56.137320343852 G=     5.36e-06
+ ooCMF Iter:   35 Total= -5357.442068465926 Active= -56.137320343860 G=     3.93e-06
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     -5.357442e+03
+
+ * Found with
+    Algorithm:     BFGS
+
+ * Convergence measures
+    |x - x'|               = 4.34e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 4.53e-06 ≰ 0.0e+00
+    |f(x) - f(x')|         = 7.28e-12 ≰ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 1.36e-15 ≰ 0.0e+00
+    |g(x)|                 = 9.41e-07 ≤ 1.0e-06
+
+ * Work counters
+    Seconds run:   40  (vs limit Inf)
+    Iterations:    34
+    f(x) calls:    71
+    ∇f(x) calls:   71
+
+*ooCMF -5357.44206847
+ Solve OO-CMF with DIIS
+ ooCMF Iter:    1 Total= -5357.442068465928 G=     2.15e-06 #SS:    1
+ ooCMF Iter:    2 Total= -5357.442068465927 G=     1.62e-06 #SS:    2
+ ooCMF Iter:    3 Total= -5357.442068465929 G=     1.09e-06 #SS:    3
+*ooCMF Iter:    4 Total= -5357.442068465929 G=     5.83e-07 #SS:    4
