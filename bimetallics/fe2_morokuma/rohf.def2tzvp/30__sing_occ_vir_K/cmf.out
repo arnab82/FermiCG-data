@@ -1,0 +1,141 @@
+ Input energy:    -5355.32618298
+IDX001:DIM0004:001|
+IDX002:DIM0004:002|
+IDX003:DIM0004:003|
+IDX004:DIM0004:004|
+IDX005:DIM1048576:005|006|007|008|009|010|011|012|013|014|
+IDX006:DIM0064:015|016|017|
+IDX007:DIM1048576:018|019|020|021|022|023|024|025|026|027|
+IDX008:DIM0004:028|
+IDX009:DIM0004:029|
+IDX010:DIM0004:030|
+ ooCMF Iter:    1 Total= -5350.383640809637 Active= -303.379264380083 G=     1.56e+01
+ ooCMF Iter:    2 Total= -5352.674967801308 Active= -305.670591371753 G=     1.49e+01
+ ooCMF Iter:    3 Total= -5353.409016756670 Active= -306.404640327116 G=     1.19e+01
+ ooCMF Iter:    4 Total= -5353.815900970139 Active= -306.811524540584 G=     1.08e+01
+ ooCMF Iter:    5 Total= -5354.051856013385 Active= -307.047479583831 G=     1.01e+01
+ ooCMF Iter:    6 Total= -5354.343757616176 Active= -307.339381186622 G=     8.56e+00
+ ooCMF Iter:    7 Total= -5354.621924592608 Active= -307.617548163053 G=     7.40e+00
+ ooCMF Iter:    8 Total= -5355.052775151292 Active= -308.048398721738 G=     4.01e+00
+ ooCMF Iter:    9 Total= -5355.254326396936 Active= -308.249949967381 G=     2.51e+00
+ ooCMF Iter:   10 Total= -5355.288380523723 Active= -308.284004094169 G=     3.03e+00
+ ooCMF Iter:   11 Total= -5355.303471958418 Active= -308.299095528864 G=     2.37e+00
+ ooCMF Iter:   12 Total= -5355.319711105972 Active= -308.315334676417 G=     2.14e+00
+ ooCMF Iter:   13 Total= -5355.330098073677 Active= -308.325721644122 G=     1.89e+00
+ ooCMF Iter:   14 Total= -5355.340002605475 Active= -308.335626175921 G=     1.62e+00
+ ooCMF Iter:   15 Total= -5355.351185310552 Active= -308.346808880998 G=     1.35e+00
+ ooCMF Iter:   16 Total= -5355.361775902956 Active= -308.357399473402 G=     9.69e-01
+ ooCMF Iter:   17 Total= -5355.372021879575 Active= -308.367645450021 G=     4.82e-01
+ ooCMF Iter:   18 Total= -5355.375224357164 Active= -308.370847927610 G=     2.19e-01
+ ooCMF Iter:   19 Total= -5355.375770310055 Active= -308.371393880501 G=     1.64e-01
+ ooCMF Iter:   20 Total= -5355.375962235584 Active= -308.371585806030 G=     1.42e-01
+ ooCMF Iter:   21 Total= -5355.376100677372 Active= -308.371724247818 G=     1.11e-01
+ ooCMF Iter:   22 Total= -5355.376127619958 Active= -308.371751190404 G=     1.06e-01
+ ooCMF Iter:   23 Total= -5355.376154938611 Active= -308.371778509057 G=     9.98e-02
+ ooCMF Iter:   24 Total= -5355.376187455161 Active= -308.371811025607 G=     9.23e-02
+ ooCMF Iter:   25 Total= -5355.376222297034 Active= -308.371845867479 G=     7.16e-02
+ ooCMF Iter:   26 Total= -5355.376258157395 Active= -308.371881727840 G=     4.87e-02
+ ooCMF Iter:   27 Total= -5355.376281181433 Active= -308.371904751879 G=     2.89e-02
+ ooCMF Iter:   28 Total= -5355.376291200234 Active= -308.371914770680 G=     1.65e-02
+ ooCMF Iter:   29 Total= -5355.376293370617 Active= -308.371916941062 G=     1.20e-02
+ ooCMF Iter:   30 Total= -5355.376294493979 Active= -308.371918064425 G=     8.37e-03
+ ooCMF Iter:   31 Total= -5355.376295504067 Active= -308.371919074512 G=     8.20e-03
+ ooCMF Iter:   32 Total= -5355.376296051567 Active= -308.371919622013 G=     7.51e-03
+ ooCMF Iter:   33 Total= -5355.376296607017 Active= -308.371920177463 G=     7.63e-03
+ ooCMF Iter:   34 Total= -5355.376297153840 Active= -308.371920724286 G=     7.78e-03
+ ooCMF Iter:   35 Total= -5355.376297700119 Active= -308.371921270565 G=     5.02e-03
+ ooCMF Iter:   36 Total= -5355.376297871947 Active= -308.371921442393 G=     3.90e-03
+ ooCMF Iter:   37 Total= -5355.376298041441 Active= -308.371921611887 G=     3.12e-03
+ ooCMF Iter:   38 Total= -5355.376298236860 Active= -308.371921807306 G=     3.30e-03
+ ooCMF Iter:   39 Total= -5355.376298390579 Active= -308.371921961025 G=     4.21e-03
+ ooCMF Iter:   40 Total= -5355.376298685724 Active= -308.371922256169 G=     5.80e-03
+ ooCMF Iter:   41 Total= -5355.376299341949 Active= -308.371922912394 G=     7.98e-03
+ ooCMF Iter:   42 Total= -5355.376300386122 Active= -308.371923956568 G=     1.13e-02
+ ooCMF Iter:   43 Total= -5355.376301256944 Active= -308.371924827390 G=     1.25e-02
+ ooCMF Iter:   44 Total= -5355.376301495702 Active= -308.371925066148 G=     1.28e-02
+ ooCMF Iter:   45 Total= -5355.376301767758 Active= -308.371925338204 G=     1.32e-02
+ ooCMF Iter:   46 Total= -5355.376302431204 Active= -308.371926001650 G=     1.41e-02
+ ooCMF Iter:   47 Total= -5355.376303518298 Active= -308.371927088744 G=     1.44e-02
+ ooCMF Iter:   48 Total= -5355.376305197092 Active= -308.371928767538 G=     1.33e-02
+ ooCMF Iter:   49 Total= -5355.376306679429 Active= -308.371930249875 G=     9.42e-03
+ ooCMF Iter:   50 Total= -5355.376307326945 Active= -308.371930897390 G=     6.45e-03
+ ooCMF Iter:   51 Total= -5355.376307512333 Active= -308.371931082779 G=     5.28e-03
+ ooCMF Iter:   52 Total= -5355.376307627311 Active= -308.371931197757 G=     4.42e-03
+ ooCMF Iter:   53 Total= -5355.376307697139 Active= -308.371931267585 G=     3.77e-03
+ ooCMF Iter:   54 Total= -5355.376307749913 Active= -308.371931320359 G=     3.28e-03
+ ooCMF Iter:   55 Total= -5355.376307834368 Active= -308.371931404814 G=     2.42e-03
+ ooCMF Iter:   56 Total= -5355.376307893971 Active= -308.371931464417 G=     1.32e-03
+ ooCMF Iter:   57 Total= -5355.376307910398 Active= -308.371931480844 G=     9.71e-04
+ ooCMF Iter:   58 Total= -5355.376307919527 Active= -308.371931489973 G=     7.43e-04
+ ooCMF Iter:   59 Total= -5355.376307923794 Active= -308.371931494240 G=     5.76e-04
+ ooCMF Iter:   60 Total= -5355.376307925922 Active= -308.371931496368 G=     5.64e-04
+ ooCMF Iter:   61 Total= -5355.376307928806 Active= -308.371931499252 G=     5.20e-04
+ ooCMF Iter:   62 Total= -5355.376307931634 Active= -308.371931502080 G=     4.23e-04
+ ooCMF Iter:   63 Total= -5355.376307932982 Active= -308.371931503428 G=     3.41e-04
+ ooCMF Iter:   64 Total= -5355.376307933536 Active= -308.371931503982 G=     2.92e-04
+ ooCMF Iter:   65 Total= -5355.376307933807 Active= -308.371931504253 G=     2.59e-04
+ ooCMF Iter:   66 Total= -5355.376307933981 Active= -308.371931504426 G=     2.33e-04
+ ooCMF Iter:   67 Total= -5355.376307934420 Active= -308.371931504866 G=     1.84e-04
+ ooCMF Iter:   68 Total= -5355.376307934775 Active= -308.371931505220 G=     1.14e-04
+ ooCMF Iter:   69 Total= -5355.376307935016 Active= -308.371931505462 G=     1.09e-04
+ ooCMF Iter:   70 Total= -5355.376307935205 Active= -308.371931505651 G=     1.21e-04
+ ooCMF Iter:   71 Total= -5355.376307935282 Active= -308.371931505728 G=     1.26e-04
+ ooCMF Iter:   72 Total= -5355.376307935428 Active= -308.371931505874 G=     1.55e-04
+ ooCMF Iter:   73 Total= -5355.376307935659 Active= -308.371931506105 G=     1.92e-04
+ ooCMF Iter:   74 Total= -5355.376307936035 Active= -308.371931506481 G=     2.35e-04
+ ooCMF Iter:   75 Total= -5355.376307936706 Active= -308.371931507152 G=     2.86e-04
+ ooCMF Iter:   76 Total= -5355.376307937374 Active= -308.371931507820 G=     3.10e-04
+ ooCMF Iter:   77 Total= -5355.376307937748 Active= -308.371931508193 G=     3.11e-04
+ ooCMF Iter:   78 Total= -5355.376307937958 Active= -308.371931508404 G=     3.07e-04
+ ooCMF Iter:   79 Total= -5355.376307938597 Active= -308.371931509043 G=     2.84e-04
+ ooCMF Iter:   80 Total= -5355.376307939894 Active= -308.371931510340 G=     2.10e-04
+ ooCMF Iter:   81 Total= -5355.376307940416 Active= -308.371931510862 G=     1.66e-04
+ ooCMF Iter:   82 Total= -5355.376307940614 Active= -308.371931511060 G=     1.54e-04
+ ooCMF Iter:   83 Total= -5355.376307940753 Active= -308.371931511198 G=     1.48e-04
+ ooCMF Iter:   84 Total= -5355.376307940827 Active= -308.371931511273 G=     1.39e-04
+ ooCMF Iter:   85 Total= -5355.376307940928 Active= -308.371931511374 G=     1.22e-04
+ ooCMF Iter:   86 Total= -5355.376307941019 Active= -308.371931511465 G=     8.96e-05
+ ooCMF Iter:   87 Total= -5355.376307941056 Active= -308.371931511502 G=     7.19e-05
+ ooCMF Iter:   88 Total= -5355.376307941090 Active= -308.371931511536 G=     5.35e-05
+ ooCMF Iter:   89 Total= -5355.376307941096 Active= -308.371931511542 G=     4.62e-05
+ ooCMF Iter:   90 Total= -5355.376307941101 Active= -308.371931511547 G=     4.06e-05
+ ooCMF Iter:   91 Total= -5355.376307941113 Active= -308.371931511559 G=     2.65e-05
+ ooCMF Iter:   92 Total= -5355.376307941116 Active= -308.371931511562 G=     1.76e-05
+ ooCMF Iter:   93 Total= -5355.376307941120 Active= -308.371931511566 G=     1.17e-05
+ ooCMF Iter:   94 Total= -5355.376307941122 Active= -308.371931511568 G=     8.95e-06
+ ooCMF Iter:   95 Total= -5355.376307941121 Active= -308.371931511567 G=     8.36e-06
+ ooCMF Iter:   96 Total= -5355.376307941123 Active= -308.371931511569 G=     7.84e-06
+ ooCMF Iter:   97 Total= -5355.376307941124 Active= -308.371931511570 G=     6.48e-06
+ ooCMF Iter:   98 Total= -5355.376307941126 Active= -308.371931511572 G=     5.70e-06
+ ooCMF Iter:   99 Total= -5355.376307941126 Active= -308.371931511572 G=     5.08e-06
+ ooCMF Iter:  100 Total= -5355.376307941126 Active= -308.371931511572 G=     4.68e-06
+ * Status: success
+
+ * Candidate solution
+    Final objective value:     -5.355376e+03
+
+ * Found with
+    Algorithm:     BFGS
+
+ * Convergence measures
+    |x - x'|               = 1.87e-07 ≰ 0.0e+00
+    |x - x'|/|x'|          = 8.48e-07 ≰ 0.0e+00
+    |f(x) - f(x')|         = 0.00e+00 ≤ 0.0e+00
+    |f(x) - f(x')|/|f(x')| = 0.00e+00 ≤ 0.0e+00
+    |g(x)|                 = 1.50e-06 ≰ 1.0e-06
+
+ * Work counters
+    Seconds run:   104  (vs limit Inf)
+    Iterations:    99
+    f(x) calls:    214
+    ∇f(x) calls:   214
+
+*ooCMF -5355.37630794
+ Solve OO-CMF with DIIS
+ ooCMF Iter:    1 Total= -5355.376307941105 G=     5.89e-05 #SS:    1
+ ooCMF Iter:    2 Total= -5355.376307941124 G=     1.64e-05 #SS:    2
+ ooCMF Iter:    3 Total= -5355.376307941126 G=     3.69e-06 #SS:    3
+ ooCMF Iter:    4 Total= -5355.376307941126 G=     2.61e-06 #SS:    4
+ ooCMF Iter:    5 Total= -5355.376307941124 G=     1.86e-06 #SS:    5
+ ooCMF Iter:    6 Total= -5355.376307941127 G=     1.97e-06 #SS:    6
+*ooCMF Iter:    7 Total= -5355.376307941127 G=     9.49e-07 #SS:    7
