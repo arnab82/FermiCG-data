@@ -68,27 +68,27 @@ e_ci, v = FermiCG.ci_solve(ci_vector, cluster_ops, clustered_ham);
 FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)
 
 # v = FermiCG.compress(v, thresh=1e-3)
-bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=1e-2, thresh_foi=1e-3);
+bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=1e-2, thresh_foi=1e-3, thresh_spin=1e-2);
 @save "data_bst.jld2" clusters init_fspace ints cluster_bases v
 
 FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)
 
-bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=1e-2, thresh_foi=1e-4);
+bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=1e-2, thresh_foi=1e-4, thresh_spin=1e-2);
 @save "data_bst.jld2" clusters init_fspace ints cluster_bases v
 
 FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)
 
-bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=.8e-3, thresh_foi=1e-4);
+bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=.8e-3, thresh_foi=1e-4, thresh_spin=.8e-3);
 @save "data_bst.jld2" clusters init_fspace ints cluster_bases v
 
 FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)
 
-bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=.6e-3, thresh_foi=1e-4);
+bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=.6e-3, thresh_foi=1e-4, thresh_spin=.6e-3);
 @save "data_bst.jld2" clusters init_fspace ints cluster_bases v
 
 FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)
 
-bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=.4e-3, thresh_foi=1e-4);
+bst_energy, v = FermiCG.block_sparse_tucker(v, cluster_ops, clustered_ham, thresh_var=.4e-3, thresh_foi=1e-4, thresh_spin=.4e-3);
 @save "data_bst.jld2" clusters init_fspace ints cluster_bases v
 
 FermiCG.compute_pt2_energy(v, cluster_ops, clustered_ham, thresh_foi=1e-8)

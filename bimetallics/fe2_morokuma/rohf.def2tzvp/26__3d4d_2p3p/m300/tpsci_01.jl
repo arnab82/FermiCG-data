@@ -30,7 +30,7 @@ ci_vector = FermiCG.add_spin_focksectors(ci_vector)
 
 eci, v = FermiCG.tps_ci_direct(ci_vector, cluster_ops, clustered_ham);
 
-values = [6.4e-4, 3.2e-4, 1.6e-4, 8e-5,  4e-5, 2e-5, 1e-5]
+values = [6.4e-4, 3.2e-4, 1.6e-4, 8e-5,  4e-5]
 
 
 for v in values
