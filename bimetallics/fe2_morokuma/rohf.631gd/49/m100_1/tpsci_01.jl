@@ -14,7 +14,7 @@ function print_pt2(e, nroots)
     println()
 end
 
-@load "../data_cmf.jld2"
+@load "data_cmf.jld2"
 
 M = 100 
 

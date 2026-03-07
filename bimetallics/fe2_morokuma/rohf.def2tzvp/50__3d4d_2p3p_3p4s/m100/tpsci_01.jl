@@ -5,16 +5,17 @@ using InCoreIntegrals
 using RDM
 using JLD2
 using LinearAlgebra
-#using MKL
+using MKL
 
-@load "../data_cmf.jld2"
+@load "data_cmf.jld2"
 
 M = 100
 
 display(BLAS.get_config())
 
-init_fspace = FockConfig(init_fspace)
-cluster_bases = FermiCG.compute_cluster_eigenbasis_spin(ints, clusters, d1, [3,3,3,3,3,3,3,3,3], init_fspace, max_roots=M, verbose=3);
+init_fspace =  FockConfig([(5, 0), (3, 3), (0, 5), (4, 4), (4, 4), (4, 4), (4, 4), (4, 4), (4, 4)])
+
+cluster_bases = FermiCG.compute_cluster_eigenbasis_spin(ints, clusters, d1, [5,5,5,5,5,5,5,5,5], init_fspace, max_roots=M, verbose=1);
 
 clustered_ham = FermiCG.extract_ClusteredTerms(ints, clusters);
 cluster_ops = FermiCG.compute_cluster_ops(cluster_bases, ints);
